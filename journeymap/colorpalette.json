@@ -1,0 +1,7486 @@
+var colorpalette={
+  "version": 3,
+  "name": "JourneyMap Color Palette",
+  "generated": "Generated using JourneyMap 5.1.4 Unlimited for 1.7.10 on Tue Aug 30 16:57:59 EDT 2016",
+  "description": [
+    "This file can be used to keep map colors consistent when changing resource packs.",
+    "Edit at your own risk. You can view it using the colorpalette.html file.",
+    "To use this palette with a single world, place colorpalette.json in: .minecraft/journeymap/data/*/worldname/",
+    "To use this palette with all worlds, edit and set \"permanent\": true, then place colorpalette.json in: .minecraft/journeymap/",
+    "For more information, go to: http://journeymap.info/help/wiki/Color_Palette"
+  ],
+  "permanent": false,
+  "resourcePacks": "Default",
+  "modNames": "Archimedes\u0027 Ships Plus:1.7.10-1.8.1, Better Records:@VERSION@, CellarsAddon:1.010, CodeChicken Core:1.0.7.47, Decorations:1.0.20, Forge Mod Loader:7.10.99.99, Immersive Engineering:0.7.5, JourneyMap:5.1.4, MineTweaker 3:3.0.10, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1614, Moving World:1.7.10-1.8.1, Not Enough Items:1.0.5.120, TFC Udary Mod:0.2.31, TFC[coremod]:0.79.28, TerraFirmaCraft:0.79.28, Waila:1.5.10",
+  "basicColors": [
+    {
+      "name": "Acacia Barrel",
+      "uid": "terrafirmacraft:Barrel",
+      "meta": 16,
+      "color": "#662500"
+    },
+    {
+      "name": "Acacia Door",
+      "uid": "terrafirmacraft:DoorAcacia",
+      "meta": 0,
+      "color": "#682603"
+    },
+    {
+      "name": "Acacia Fence",
+      "uid": "terrafirmacraft:Fence2",
+      "meta": 0,
+      "color": "#662804",
+      "alpha": 0.4
+    },
+    {
+      "name": "Acacia Fence Gate",
+      "uid": "terrafirmacraft:FenceGate2",
+      "meta": 0,
+      "color": "#662500",
+      "alpha": 0.4
+    },
+    {
+      "name": "Acacia Leaves",
+      "uid": "minecraft:leaves2",
+      "meta": 0,
+      "color": "#878787"
+    },
+    {
+      "name": "Acacia Leaves",
+      "uid": "minecraft:leaves2",
+      "meta": 1,
+      "color": "#878787"
+    },
+    {
+      "name": "Acacia Log",
+      "uid": "terrafirmacraft:WoodHoriz3",
+      "meta": 0,
+      "color": "#51534c"
+    },
+    {
+      "name": "Acacia Log",
+      "uid": "terrafirmacraft:WoodVert2",
+      "meta": 0,
+      "color": "#563016"
+    },
+    {
+      "name": "Acacia Log",
+      "uid": "terrafirmacraft:log2",
+      "meta": 0,
+      "color": "#563016"
+    },
+    {
+      "name": "Acacia Loom",
+      "uid": "terrafirmacraft:Loom",
+      "meta": 16,
+      "color": "#662500"
+    },
+    {
+      "name": "Acacia Planks",
+      "uid": "terrafirmacraft:planks2",
+      "meta": 0,
+      "color": "#662500"
+    },
+    {
+      "name": "Acacia Sapling",
+      "uid": "minecraft:sapling",
+      "meta": 4,
+      "color": "#727314"
+    },
+    {
+      "name": "Acacia Sapling",
+      "uid": "terrafirmacraft:sapling2",
+      "meta": 0,
+      "color": "#597b3e"
+    },
+    {
+      "name": "Acacia Support Beam",
+      "uid": "terrafirmacraft:WoodSupportV2",
+      "meta": 0,
+      "color": "#742901"
+    },
+    {
+      "name": "Acacia Tool Rack",
+      "uid": "terrafirmacraft:ToolRack",
+      "meta": 16,
+      "color": "#742901"
+    },
+    {
+      "name": "Acacia Wood",
+      "uid": "minecraft:log2",
+      "meta": 0,
+      "color": "#9a5b40"
+    },
+    {
+      "name": "Acacia Wood Planks",
+      "uid": "minecraft:planks",
+      "meta": 4,
+      "color": "#a95b33"
+    },
+    {
+      "name": "Acacia Wood Slab",
+      "uid": "minecraft:wooden_slab",
+      "meta": 4,
+      "color": "#a95b33"
+    },
+    {
+      "name": "Acacia Wood Stairs",
+      "uid": "minecraft:acacia_stairs",
+      "meta": 0,
+      "color": "#a95b33"
+    },
+    {
+      "name": "Activator Rail",
+      "uid": "minecraft:activator_rail",
+      "meta": 0,
+      "color": "#685347"
+    },
+    {
+      "name": "Air Balloon",
+      "uid": "ArchimedesShipsPlus:balloon",
+      "meta": 0,
+      "color": "#f2f2f2"
+    },
+    {
+      "name": "Alabaster",
+      "uid": "DecorationsTFC:Alabaster",
+      "meta": 0,
+      "color": "#eae8e2"
+    },
+    {
+      "name": "Alabaster",
+      "uid": "DecorationsTFC:Alabaster",
+      "meta": 1,
+      "color": "#a42c27"
+    },
+    {
+      "name": "Alabaster",
+      "uid": "DecorationsTFC:Alabaster",
+      "meta": 2,
+      "color": "#364916"
+    },
+    {
+      "name": "Alabaster",
+      "uid": "DecorationsTFC:Alabaster",
+      "meta": 3,
+      "color": "#4a2b16"
+    },
+    {
+      "name": "Alabaster",
+      "uid": "DecorationsTFC:Alabaster",
+      "meta": 4,
+      "color": "#222c81"
+    },
+    {
+      "name": "Alabaster",
+      "uid": "DecorationsTFC:Alabaster",
+      "meta": 5,
+      "color": "#712aa8"
+    },
+    {
+      "name": "Alabaster",
+      "uid": "DecorationsTFC:Alabaster",
+      "meta": 6,
+      "color": "#246b85"
+    },
+    {
+      "name": "Alabaster",
+      "uid": "DecorationsTFC:Alabaster",
+      "meta": 7,
+      "color": "#a5a7a3"
+    },
+    {
+      "name": "Alabaster",
+      "uid": "DecorationsTFC:Alabaster",
+      "meta": 8,
+      "color": "#3d3d3b"
+    },
+    {
+      "name": "Alabaster",
+      "uid": "DecorationsTFC:Alabaster",
+      "meta": 9,
+      "color": "#c77586"
+    },
+    {
+      "name": "Alabaster",
+      "uid": "DecorationsTFC:Alabaster",
+      "meta": 10,
+      "color": "#3bba2e"
+    },
+    {
+      "name": "Alabaster",
+      "uid": "DecorationsTFC:Alabaster",
+      "meta": 11,
+      "color": "#ccbc25"
+    },
+    {
+      "name": "Alabaster",
+      "uid": "DecorationsTFC:Alabaster",
+      "meta": 12,
+      "color": "#7c007c"
+    },
+    {
+      "name": "Alabaster",
+      "uid": "DecorationsTFC:Alabaster",
+      "meta": 13,
+      "color": "#b34cb5"
+    },
+    {
+      "name": "Alabaster",
+      "uid": "DecorationsTFC:Alabaster",
+      "meta": 14,
+      "color": "#d87b3c"
+    },
+    {
+      "name": "Alabaster",
+      "uid": "DecorationsTFC:Alabaster",
+      "meta": 15,
+      "color": "#1b1817"
+    },
+    {
+      "name": "Allium",
+      "uid": "minecraft:red_flower",
+      "meta": 2,
+      "color": "#8549b6"
+    },
+    {
+      "name": "Allium",
+      "uid": "terrafirmacraft:Flowers2",
+      "meta": 2,
+      "color": "#b18dd3"
+    },
+    {
+      "name": "Aluminium Fence",
+      "uid": "ImmersiveEngineering:metalDecoration",
+      "meta": 12,
+      "color": "#bbccca"
+    },
+    {
+      "name": "Aluminium Scaffolding",
+      "uid": "ImmersiveEngineering:metalDecoration",
+      "meta": 13,
+      "color": "#aebebc"
+    },
+    {
+      "name": "Aluminium Scaffolding",
+      "uid": "ImmersiveEngineering:metalDecoration",
+      "meta": 14,
+      "color": "#7c6f65"
+    },
+    {
+      "name": "Aluminium Sheet Metal Block",
+      "uid": "ImmersiveEngineering:metalDecoration2",
+      "meta": 0,
+      "color": "#b9cac8"
+    },
+    {
+      "name": "Aluminium Slab",
+      "uid": "ImmersiveEngineering:storageSlab",
+      "meta": 1,
+      "color": "#bbccca"
+    },
+    {
+      "name": "Aluminium Structural Arm",
+      "uid": "ImmersiveEngineering:metalDecoration",
+      "meta": 15,
+      "color": "#aebebc"
+    },
+    {
+      "name": "Anchor Point",
+      "uid": "ArchimedesShipsPlus:anchorPoint",
+      "meta": 0,
+      "color": "#422815"
+    },
+    {
+      "name": "Andesite",
+      "uid": "terrafirmacraft:StoneIgEx",
+      "meta": 2,
+      "color": "#727576"
+    },
+    {
+      "name": "Andesite Brick Wall",
+      "uid": "terrafirmacraft:WallBrickIgEx",
+      "meta": 2,
+      "color": "#6c7071"
+    },
+    {
+      "name": "Andesite Bricks",
+      "uid": "terrafirmacraft:StoneIgExBrick",
+      "meta": 2,
+      "color": "#6c7071"
+    },
+    {
+      "name": "Andesite Cobblestone",
+      "uid": "terrafirmacraft:StoneIgExCobble",
+      "meta": 2,
+      "color": "#6c7071"
+    },
+    {
+      "name": "Andesite Cobblestone Wall",
+      "uid": "terrafirmacraft:WallCobbleIgEx",
+      "meta": 2,
+      "color": "#6c7071"
+    },
+    {
+      "name": "Andesite Mud Brick (Dry)",
+      "uid": "DecorationsTFC:MudBrickRaw.Andesite",
+      "meta": 1,
+      "color": "#6e7373"
+    },
+    {
+      "name": "Andesite Mud Brick (Wet)",
+      "uid": "DecorationsTFC:MudBrickRaw.Andesite",
+      "meta": 0,
+      "color": "#6e7373"
+    },
+    {
+      "name": "Andesite Mud Bricks",
+      "uid": "DecorationsTFC:MudBricks",
+      "meta": 13,
+      "color": "#47443c"
+    },
+    {
+      "name": "Andesite Smooth Wall",
+      "uid": "terrafirmacraft:WallSmoothIgEx",
+      "meta": 2,
+      "color": "#6c7172"
+    },
+    {
+      "name": "Andesite Wall",
+      "uid": "terrafirmacraft:WallRawIgEx",
+      "meta": 2,
+      "color": "#727576"
+    },
+    {
+      "name": "Anodising Vessel",
+      "uid": "tfcudarymod:tile.Anodising Vessel",
+      "meta": 0,
+      "color": "#acacac"
+    },
+    {
+      "name": "Anvil",
+      "uid": "minecraft:anvil",
+      "meta": 0,
+      "color": "#404040"
+    },
+    {
+      "name": "Anvil",
+      "uid": "minecraft:anvil",
+      "meta": 1,
+      "color": "#404040"
+    },
+    {
+      "name": "Anvil",
+      "uid": "minecraft:anvil",
+      "meta": 2,
+      "color": "#404040"
+    },
+    {
+      "name": "Ash Barrel",
+      "uid": "terrafirmacraft:Barrel",
+      "meta": 7,
+      "color": "#844235"
+    },
+    {
+      "name": "Ash Door",
+      "uid": "terrafirmacraft:DoorAsh",
+      "meta": 0,
+      "color": "#824336"
+    },
+    {
+      "name": "Ash Fence",
+      "uid": "terrafirmacraft:Fence",
+      "meta": 7,
+      "color": "#834336",
+      "alpha": 0.4
+    },
+    {
+      "name": "Ash Fence Gate",
+      "uid": "terrafirmacraft:FenceGate",
+      "meta": 7,
+      "color": "#844235",
+      "alpha": 0.4
+    },
+    {
+      "name": "Ash Log",
+      "uid": "terrafirmacraft:WoodHoriz",
+      "meta": 7,
+      "color": "#6c4a35"
+    },
+    {
+      "name": "Ash Log",
+      "uid": "terrafirmacraft:WoodVert",
+      "meta": 7,
+      "color": "#9e7459"
+    },
+    {
+      "name": "Ash Log",
+      "uid": "terrafirmacraft:log",
+      "meta": 7,
+      "color": "#9e7459"
+    },
+    {
+      "name": "Ash Loom",
+      "uid": "terrafirmacraft:Loom",
+      "meta": 7,
+      "color": "#844235"
+    },
+    {
+      "name": "Ash Planks",
+      "uid": "terrafirmacraft:planks",
+      "meta": 7,
+      "color": "#844235"
+    },
+    {
+      "name": "Ash Sapling",
+      "uid": "terrafirmacraft:sapling",
+      "meta": 7,
+      "color": "#4c7030"
+    },
+    {
+      "name": "Ash Support Beam",
+      "uid": "terrafirmacraft:WoodSupportV",
+      "meta": 7,
+      "color": "#b7876c"
+    },
+    {
+      "name": "Ash Tool Rack",
+      "uid": "terrafirmacraft:ToolRack",
+      "meta": 7,
+      "color": "#b7876c"
+    },
+    {
+      "name": "Aspen Barrel",
+      "uid": "terrafirmacraft:Barrel",
+      "meta": 1,
+      "color": "#373528"
+    },
+    {
+      "name": "Aspen Door",
+      "uid": "terrafirmacraft:DoorAspen",
+      "meta": 0,
+      "color": "#363428"
+    },
+    {
+      "name": "Aspen Fence",
+      "uid": "terrafirmacraft:Fence",
+      "meta": 1,
+      "color": "#3d3b2e",
+      "alpha": 0.4
+    },
+    {
+      "name": "Aspen Fence Gate",
+      "uid": "terrafirmacraft:FenceGate",
+      "meta": 1,
+      "color": "#373528",
+      "alpha": 0.4
+    },
+    {
+      "name": "Aspen Log",
+      "uid": "terrafirmacraft:WoodHoriz",
+      "meta": 1,
+      "color": "#9a9895"
+    },
+    {
+      "name": "Aspen Log",
+      "uid": "terrafirmacraft:WoodVert",
+      "meta": 1,
+      "color": "#645f4c"
+    },
+    {
+      "name": "Aspen Log",
+      "uid": "terrafirmacraft:log",
+      "meta": 1,
+      "color": "#645f4c"
+    },
+    {
+      "name": "Aspen Loom",
+      "uid": "terrafirmacraft:Loom",
+      "meta": 1,
+      "color": "#373528"
+    },
+    {
+      "name": "Aspen Planks",
+      "uid": "terrafirmacraft:planks",
+      "meta": 1,
+      "color": "#373528"
+    },
+    {
+      "name": "Aspen Sapling",
+      "uid": "terrafirmacraft:sapling",
+      "meta": 1,
+      "color": "#5d6850"
+    },
+    {
+      "name": "Aspen Support Beam",
+      "uid": "terrafirmacraft:WoodSupportV",
+      "meta": 1,
+      "color": "#524c34"
+    },
+    {
+      "name": "Aspen Tool Rack",
+      "uid": "terrafirmacraft:ToolRack",
+      "meta": 1,
+      "color": "#524c34"
+    },
+    {
+      "name": "Azure Bluet",
+      "uid": "minecraft:red_flower",
+      "meta": 3,
+      "color": "#9da1a7"
+    },
+    {
+      "name": "Balloon",
+      "uid": "ImmersiveEngineering:clothDevice",
+      "meta": 0,
+      "color": "#d4c6b3"
+    },
+    {
+      "name": "Basalt",
+      "uid": "terrafirmacraft:StoneIgEx",
+      "meta": 1,
+      "color": "#35393c"
+    },
+    {
+      "name": "Basalt Brick Wall",
+      "uid": "terrafirmacraft:WallBrickIgEx",
+      "meta": 1,
+      "color": "#262a2c"
+    },
+    {
+      "name": "Basalt Bricks",
+      "uid": "terrafirmacraft:StoneIgExBrick",
+      "meta": 1,
+      "color": "#262a2c"
+    },
+    {
+      "name": "Basalt Cobblestone",
+      "uid": "terrafirmacraft:StoneIgExCobble",
+      "meta": 1,
+      "color": "#313436"
+    },
+    {
+      "name": "Basalt Cobblestone Wall",
+      "uid": "terrafirmacraft:WallCobbleIgEx",
+      "meta": 1,
+      "color": "#313436"
+    },
+    {
+      "name": "Basalt Mud Brick (Dry)",
+      "uid": "DecorationsTFC:MudBrickRaw.Basalt",
+      "meta": 1,
+      "color": "#282d2f"
+    },
+    {
+      "name": "Basalt Mud Brick (Wet)",
+      "uid": "DecorationsTFC:MudBrickRaw.Basalt",
+      "meta": 0,
+      "color": "#282d2f"
+    },
+    {
+      "name": "Basalt Mud Bricks",
+      "uid": "DecorationsTFC:MudBricks",
+      "meta": 12,
+      "color": "#191a17"
+    },
+    {
+      "name": "Basalt Smooth Wall",
+      "uid": "terrafirmacraft:WallSmoothIgEx",
+      "meta": 1,
+      "color": "#262a2d"
+    },
+    {
+      "name": "Basalt Wall",
+      "uid": "terrafirmacraft:WallRawIgEx",
+      "meta": 1,
+      "color": "#35393c"
+    },
+    {
+      "name": "Bauxite Ore",
+      "uid": "ImmersiveEngineering:ore",
+      "meta": 1,
+      "color": "#7a7978"
+    },
+    {
+      "name": "Beacon",
+      "uid": "minecraft:beacon",
+      "meta": 0,
+      "color": "#74ddd7",
+      "alpha": 0.4
+    },
+    {
+      "name": "Bed",
+      "uid": "minecraft:bed",
+      "meta": 0,
+      "color": "#8e1616"
+    },
+    {
+      "name": "Bedrock",
+      "uid": "minecraft:bedrock",
+      "meta": 0,
+      "color": "#535353"
+    },
+    {
+      "name": "Bellows",
+      "uid": "terrafirmacraft:Bellows",
+      "meta": 0,
+      "color": "#242424"
+    },
+    {
+      "name": "Birch Barrel",
+      "uid": "terrafirmacraft:Barrel",
+      "meta": 2,
+      "color": "#6a5c45"
+    },
+    {
+      "name": "Birch Door",
+      "uid": "terrafirmacraft:DoorBirch",
+      "meta": 0,
+      "color": "#655842"
+    },
+    {
+      "name": "Birch Fence",
+      "uid": "terrafirmacraft:Fence",
+      "meta": 2,
+      "color": "#70624c",
+      "alpha": 0.4
+    },
+    {
+      "name": "Birch Fence Gate",
+      "uid": "terrafirmacraft:FenceGate",
+      "meta": 2,
+      "color": "#6a5c45",
+      "alpha": 0.4
+    },
+    {
+      "name": "Birch Leaves",
+      "uid": "minecraft:leaves",
+      "meta": 2,
+      "color": "#878787"
+    },
+    {
+      "name": "Birch Log",
+      "uid": "terrafirmacraft:WoodHoriz",
+      "meta": 2,
+      "color": "#cecec9"
+    },
+    {
+      "name": "Birch Log",
+      "uid": "terrafirmacraft:WoodVert",
+      "meta": 2,
+      "color": "#988a6a"
+    },
+    {
+      "name": "Birch Log",
+      "uid": "terrafirmacraft:log",
+      "meta": 2,
+      "color": "#988a6a"
+    },
+    {
+      "name": "Birch Loom",
+      "uid": "terrafirmacraft:Loom",
+      "meta": 2,
+      "color": "#6a5c45"
+    },
+    {
+      "name": "Birch Planks",
+      "uid": "terrafirmacraft:planks",
+      "meta": 2,
+      "color": "#6a5c45"
+    },
+    {
+      "name": "Birch Sapling",
+      "uid": "minecraft:sapling",
+      "meta": 2,
+      "color": "#769654"
+    },
+    {
+      "name": "Birch Sapling",
+      "uid": "terrafirmacraft:sapling",
+      "meta": 2,
+      "color": "#769654"
+    },
+    {
+      "name": "Birch Support Beam",
+      "uid": "terrafirmacraft:WoodSupportV",
+      "meta": 2,
+      "color": "#988658"
+    },
+    {
+      "name": "Birch Tool Rack",
+      "uid": "terrafirmacraft:ToolRack",
+      "meta": 2,
+      "color": "#988658"
+    },
+    {
+      "name": "Birch Wood",
+      "uid": "minecraft:log",
+      "meta": 2,
+      "color": "#b8a679"
+    },
+    {
+      "name": "Birch Wood Planks",
+      "uid": "minecraft:planks",
+      "meta": 2,
+      "color": "#c3b37b"
+    },
+    {
+      "name": "Birch Wood Slab",
+      "uid": "minecraft:wooden_slab",
+      "meta": 2,
+      "color": "#c3b37b"
+    },
+    {
+      "name": "Birch Wood Stairs",
+      "uid": "minecraft:birch_stairs",
+      "meta": 0,
+      "color": "#c3b37b"
+    },
+    {
+      "name": "Bismuth Bronze Anvil",
+      "uid": "terrafirmacraft:Anvil2",
+      "meta": 1,
+      "color": "#315b40"
+    },
+    {
+      "name": "Bismuth Bronze Lantern",
+      "uid": "DecorationsTFC:Lantern.BismuthBronze",
+      "meta": 0,
+      "color": "#459053"
+    },
+    {
+      "name": "Black Air Balloon",
+      "uid": "ArchimedesShipsPlus:balloon",
+      "meta": 15,
+      "color": "#505050"
+    },
+    {
+      "name": "Black Bronze Anvil",
+      "uid": "terrafirmacraft:Anvil2",
+      "meta": 2,
+      "color": "#2c0933"
+    },
+    {
+      "name": "Black Bronze Lantern",
+      "uid": "DecorationsTFC:Lantern.BlackBronze",
+      "meta": 0,
+      "color": "#392d37"
+    },
+    {
+      "name": "Black Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 15,
+      "color": "#191616"
+    },
+    {
+      "name": "Black Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 15,
+      "color": "#251610"
+    },
+    {
+      "name": "Black Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 15,
+      "color": "#191919",
+      "alpha": 0.4
+    },
+    {
+      "name": "Black Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 15,
+      "color": "#191919",
+      "alpha": 0.4
+    },
+    {
+      "name": "Black Steel Anvil",
+      "uid": "terrafirmacraft:Anvil",
+      "meta": 5,
+      "color": "#0f0f0f"
+    },
+    {
+      "name": "Black Wool",
+      "uid": "minecraft:wool",
+      "meta": 15,
+      "color": "#191616"
+    },
+    {
+      "name": "Blackberry Bush",
+      "uid": "terrafirmacraft:BerryBush",
+      "meta": 4,
+      "color": "#506325"
+    },
+    {
+      "name": "Blast Brick",
+      "uid": "ImmersiveEngineering:stoneDecoration",
+      "meta": 2,
+      "color": "#3e1f15"
+    },
+    {
+      "name": "Blast Furnace",
+      "uid": "terrafirmacraft:Bloomery",
+      "meta": 0,
+      "color": "#2e251c"
+    },
+    {
+      "name": "Blast Furnace Preheater",
+      "uid": "ImmersiveEngineering:metalDevice2",
+      "meta": 11,
+      "color": "#7f7876"
+    },
+    {
+      "name": "Block of Aluminium",
+      "uid": "ImmersiveEngineering:storage",
+      "meta": 1,
+      "color": "#bbccca"
+    },
+    {
+      "name": "Block of Coal",
+      "uid": "minecraft:coal_block",
+      "meta": 0,
+      "color": "#121212"
+    },
+    {
+      "name": "Block of Coal Coke",
+      "uid": "ImmersiveEngineering:stoneDecoration",
+      "meta": 3,
+      "color": "#272727"
+    },
+    {
+      "name": "Block of Constantan",
+      "uid": "ImmersiveEngineering:storage",
+      "meta": 5,
+      "color": "#ce6d56"
+    },
+    {
+      "name": "Block of Copper",
+      "uid": "ImmersiveEngineering:storage",
+      "meta": 0,
+      "color": "#6ec6a0"
+    },
+    {
+      "name": "Block of Diamond",
+      "uid": "minecraft:diamond_block",
+      "meta": 0,
+      "color": "#61dbd5"
+    },
+    {
+      "name": "Block of Electrum",
+      "uid": "ImmersiveEngineering:storage",
+      "meta": 6,
+      "color": "#ebd07f"
+    },
+    {
+      "name": "Block of Emerald",
+      "uid": "minecraft:emerald_block",
+      "meta": 0,
+      "color": "#51d975"
+    },
+    {
+      "name": "Block of Gold",
+      "uid": "minecraft:gold_block",
+      "meta": 0,
+      "color": "#f9ec4e"
+    },
+    {
+      "name": "Block of Iron",
+      "uid": "minecraft:iron_block",
+      "meta": 0,
+      "color": "#dbdbdb"
+    },
+    {
+      "name": "Block of Lead",
+      "uid": "ImmersiveEngineering:storage",
+      "meta": 2,
+      "color": "#46495b"
+    },
+    {
+      "name": "Block of Nickel",
+      "uid": "ImmersiveEngineering:storage",
+      "meta": 4,
+      "color": "#949a8a"
+    },
+    {
+      "name": "Block of Quartz",
+      "uid": "minecraft:quartz_block",
+      "meta": 0,
+      "color": "#ece9e2"
+    },
+    {
+      "name": "Block of Redstone",
+      "uid": "minecraft:redstone_block",
+      "meta": 0,
+      "color": "#ab1b09"
+    },
+    {
+      "name": "Block of Silver",
+      "uid": "ImmersiveEngineering:storage",
+      "meta": 3,
+      "color": "#aad4d4"
+    },
+    {
+      "name": "Block of Steel",
+      "uid": "ImmersiveEngineering:storage",
+      "meta": 7,
+      "color": "#525252"
+    },
+    {
+      "name": "Bloomery",
+      "uid": "terrafirmacraft:EarlyBloomery",
+      "meta": 0,
+      "color": "#5f4622"
+    },
+    {
+      "name": "Blue Air Balloon",
+      "uid": "ArchimedesShipsPlus:balloon",
+      "meta": 11,
+      "color": "#7676b9"
+    },
+    {
+      "name": "Blue Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 11,
+      "color": "#2e388d"
+    },
+    {
+      "name": "Blue Orchid",
+      "uid": "minecraft:red_flower",
+      "meta": 1,
+      "color": "#1e7eb6"
+    },
+    {
+      "name": "Blue Orchid",
+      "uid": "terrafirmacraft:Flowers2",
+      "meta": 1,
+      "color": "#25988a"
+    },
+    {
+      "name": "Blue Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 11,
+      "color": "#4a3b5b"
+    },
+    {
+      "name": "Blue Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 11,
+      "color": "#334cb2",
+      "alpha": 0.4
+    },
+    {
+      "name": "Blue Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 11,
+      "color": "#334cb2",
+      "alpha": 0.4
+    },
+    {
+      "name": "Blue Steel Anvil",
+      "uid": "terrafirmacraft:Anvil",
+      "meta": 6,
+      "color": "#13284b"
+    },
+    {
+      "name": "Blue Wool",
+      "uid": "minecraft:wool",
+      "meta": 11,
+      "color": "#2e388d"
+    },
+    {
+      "name": "Blueberry Bush",
+      "uid": "terrafirmacraft:BerryBush",
+      "meta": 1,
+      "color": "#407348"
+    },
+    {
+      "name": "Bookshelf",
+      "uid": "minecraft:bookshelf",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Bookshelf",
+      "uid": "terrafirmacraft:Bookshelf",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Brass Lantern",
+      "uid": "DecorationsTFC:Lantern.Brass",
+      "meta": 0,
+      "color": "#9a8d30"
+    },
+    {
+      "name": "Breaker Switch",
+      "uid": "ImmersiveEngineering:metalDevice2",
+      "meta": 0,
+      "color": "#5c524b"
+    },
+    {
+      "name": "Brewing Stand",
+      "uid": "minecraft:brewing_stand",
+      "meta": 0,
+      "color": "#7c6751"
+    },
+    {
+      "name": "Brick Stairs",
+      "uid": "minecraft:brick_stairs",
+      "meta": 0,
+      "color": "#926356"
+    },
+    {
+      "name": "Bricks",
+      "uid": "minecraft:brick_block",
+      "meta": 0,
+      "color": "#926356"
+    },
+    {
+      "name": "Bricks Slab",
+      "uid": "minecraft:stone_slab",
+      "meta": 4,
+      "color": "#926356"
+    },
+    {
+      "name": "Bronze Anvil",
+      "uid": "terrafirmacraft:Anvil",
+      "meta": 2,
+      "color": "#3b2f15"
+    },
+    {
+      "name": "Bronze Lantern",
+      "uid": "DecorationsTFC:Lantern.Bronze",
+      "meta": 0,
+      "color": "#78643a"
+    },
+    {
+      "name": "Brown Air Balloon",
+      "uid": "ArchimedesShipsPlus:balloon",
+      "meta": 12,
+      "color": "#aa9173"
+    },
+    {
+      "name": "Brown Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 12,
+      "color": "#4f321f"
+    },
+    {
+      "name": "Brown Mushroom",
+      "uid": "terrafirmacraft:Fungi",
+      "meta": 0,
+      "color": "#8a6953"
+    },
+    {
+      "name": "Brown Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 12,
+      "color": "#4d3323"
+    },
+    {
+      "name": "Brown Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 12,
+      "color": "#664c33",
+      "alpha": 0.4
+    },
+    {
+      "name": "Brown Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 12,
+      "color": "#664c33",
+      "alpha": 0.4
+    },
+    {
+      "name": "Brown Wool",
+      "uid": "minecraft:wool",
+      "meta": 12,
+      "color": "#4f321f"
+    },
+    {
+      "name": "Bunchberry Bush",
+      "uid": "terrafirmacraft:BerryBush",
+      "meta": 5,
+      "color": "#486a15"
+    },
+    {
+      "name": "Butterfly Milkweed",
+      "uid": "terrafirmacraft:Flowers",
+      "meta": 4,
+      "color": "#8f7819"
+    },
+    {
+      "name": "Button",
+      "uid": "minecraft:stone_button",
+      "meta": 0,
+      "color": "#7d7d7d"
+    },
+    {
+      "name": "Button",
+      "uid": "minecraft:wooden_button",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Cactus",
+      "uid": "minecraft:cactus",
+      "meta": 0,
+      "color": "#0d6618"
+    },
+    {
+      "name": "Cactus",
+      "uid": "terrafirmacraft:Cactus",
+      "meta": 0,
+      "color": "#0d6318"
+    },
+    {
+      "name": "Calendula",
+      "uid": "terrafirmacraft:Flowers",
+      "meta": 5,
+      "color": "#6d7f2a"
+    },
+    {
+      "name": "Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 0,
+      "color": "#dddddd"
+    },
+    {
+      "name": "Carrots",
+      "uid": "minecraft:carrots",
+      "meta": 0,
+      "color": "#01ab10"
+    },
+    {
+      "name": "Cauldron",
+      "uid": "minecraft:cauldron",
+      "meta": 0,
+      "color": "#454545"
+    },
+    {
+      "name": "Cellar Door",
+      "uid": "tfccellars:CellarDoor",
+      "meta": 0,
+      "color": "#a49277"
+    },
+    {
+      "name": "Cellar Shelf",
+      "uid": "tfccellars:CellarShelf",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Cellar Wall",
+      "uid": "tfccellars:CellarWall",
+      "meta": 0,
+      "color": "#a99b82"
+    },
+    {
+      "name": "Chalk",
+      "uid": "terrafirmacraft:StoneSed",
+      "meta": 7,
+      "color": "#afaeaa"
+    },
+    {
+      "name": "Chalk Brick Wall",
+      "uid": "terrafirmacraft:WallBrickSed",
+      "meta": 7,
+      "color": "#b9b8b3"
+    },
+    {
+      "name": "Chalk Bricks",
+      "uid": "terrafirmacraft:StoneSedBrick",
+      "meta": 7,
+      "color": "#b9b8b3"
+    },
+    {
+      "name": "Chalk Cobblestone",
+      "uid": "terrafirmacraft:StoneSedCobble",
+      "meta": 7,
+      "color": "#aeada9"
+    },
+    {
+      "name": "Chalk Cobblestone Wall",
+      "uid": "terrafirmacraft:WallCobbleSed",
+      "meta": 7,
+      "color": "#aeada9"
+    },
+    {
+      "name": "Chalk Mud Brick (Dry)",
+      "uid": "DecorationsTFC:MudBrickRaw.Chalk",
+      "meta": 1,
+      "color": "#b9b8b3"
+    },
+    {
+      "name": "Chalk Mud Brick (Wet)",
+      "uid": "DecorationsTFC:MudBrickRaw.Chalk",
+      "meta": 0,
+      "color": "#b9b8b3"
+    },
+    {
+      "name": "Chalk Mud Bricks",
+      "uid": "DecorationsTFC:MudBricks",
+      "meta": 10,
+      "color": "#7b705f"
+    },
+    {
+      "name": "Chalk Smooth Wall",
+      "uid": "terrafirmacraft:WallSmoothSed",
+      "meta": 7,
+      "color": "#bbb9b5"
+    },
+    {
+      "name": "Chalk Wall",
+      "uid": "terrafirmacraft:WallRawSed",
+      "meta": 7,
+      "color": "#afaeaa"
+    },
+    {
+      "name": "Charcoal",
+      "uid": "terrafirmacraft:Charcoal",
+      "meta": 0,
+      "color": "#171111"
+    },
+    {
+      "name": "Charging Station",
+      "uid": "ImmersiveEngineering:metalDevice2",
+      "meta": 10,
+      "color": "#785f52"
+    },
+    {
+      "name": "Chert",
+      "uid": "terrafirmacraft:StoneSed",
+      "meta": 6,
+      "color": "#755a4b"
+    },
+    {
+      "name": "Chert Brick Wall",
+      "uid": "terrafirmacraft:WallBrickSed",
+      "meta": 6,
+      "color": "#704e3a"
+    },
+    {
+      "name": "Chert Bricks",
+      "uid": "terrafirmacraft:StoneSedBrick",
+      "meta": 6,
+      "color": "#704e3a"
+    },
+    {
+      "name": "Chert Cobblestone",
+      "uid": "terrafirmacraft:StoneSedCobble",
+      "meta": 6,
+      "color": "#705342"
+    },
+    {
+      "name": "Chert Cobblestone Wall",
+      "uid": "terrafirmacraft:WallCobbleSed",
+      "meta": 6,
+      "color": "#705342"
+    },
+    {
+      "name": "Chert Mud Brick (Dry)",
+      "uid": "DecorationsTFC:MudBrickRaw.Chert",
+      "meta": 1,
+      "color": "#70503c"
+    },
+    {
+      "name": "Chert Mud Brick (Wet)",
+      "uid": "DecorationsTFC:MudBrickRaw.Chert",
+      "meta": 0,
+      "color": "#70503c"
+    },
+    {
+      "name": "Chert Mud Bricks",
+      "uid": "DecorationsTFC:MudBricks",
+      "meta": 9,
+      "color": "#4a2f1f"
+    },
+    {
+      "name": "Chert Smooth Wall",
+      "uid": "terrafirmacraft:WallSmoothSed",
+      "meta": 6,
+      "color": "#704e3a"
+    },
+    {
+      "name": "Chert Wall",
+      "uid": "terrafirmacraft:WallRawSed",
+      "meta": 6,
+      "color": "#755a4b"
+    },
+    {
+      "name": "Chest",
+      "uid": "minecraft:chest",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Chestnut Barrel",
+      "uid": "terrafirmacraft:Barrel",
+      "meta": 3,
+      "color": "#4d1c10"
+    },
+    {
+      "name": "Chestnut Door",
+      "uid": "terrafirmacraft:DoorChestnut",
+      "meta": 0,
+      "color": "#4b1f13"
+    },
+    {
+      "name": "Chestnut Fence",
+      "uid": "terrafirmacraft:Fence",
+      "meta": 3,
+      "color": "#4d1e10",
+      "alpha": 0.4
+    },
+    {
+      "name": "Chestnut Fence Gate",
+      "uid": "terrafirmacraft:FenceGate",
+      "meta": 3,
+      "color": "#4d1c10",
+      "alpha": 0.4
+    },
+    {
+      "name": "Chestnut Log",
+      "uid": "terrafirmacraft:WoodHoriz",
+      "meta": 3,
+      "color": "#4b441f"
+    },
+    {
+      "name": "Chestnut Log",
+      "uid": "terrafirmacraft:WoodVert",
+      "meta": 3,
+      "color": "#5e3215"
+    },
+    {
+      "name": "Chestnut Log",
+      "uid": "terrafirmacraft:log",
+      "meta": 3,
+      "color": "#5e3215"
+    },
+    {
+      "name": "Chestnut Loom",
+      "uid": "terrafirmacraft:Loom",
+      "meta": 3,
+      "color": "#4d1c10"
+    },
+    {
+      "name": "Chestnut Planks",
+      "uid": "terrafirmacraft:planks",
+      "meta": 3,
+      "color": "#4d1c10"
+    },
+    {
+      "name": "Chestnut Sapling",
+      "uid": "terrafirmacraft:sapling",
+      "meta": 3,
+      "color": "#223d15"
+    },
+    {
+      "name": "Chestnut Support Beam",
+      "uid": "terrafirmacraft:WoodSupportV",
+      "meta": 3,
+      "color": "#6e341c"
+    },
+    {
+      "name": "Chestnut Tool Rack",
+      "uid": "terrafirmacraft:ToolRack",
+      "meta": 3,
+      "color": "#6e341c"
+    },
+    {
+      "name": "Chiseled Quartz Block",
+      "uid": "minecraft:quartz_block",
+      "meta": 1,
+      "color": "#e7e4db"
+    },
+    {
+      "name": "Chiseled Sandstone",
+      "uid": "minecraft:sandstone",
+      "meta": 1,
+      "color": "#dad29e"
+    },
+    {
+      "name": "Chiseled Stone Bricks",
+      "uid": "minecraft:stonebrick",
+      "meta": 3,
+      "color": "#767676"
+    },
+    {
+      "name": "Clay",
+      "uid": "minecraft:clay",
+      "meta": 0,
+      "color": "#9ea4b0"
+    },
+    {
+      "name": "Clay",
+      "uid": "terrafirmacraft:Clay",
+      "meta": 0,
+      "color": "#918f91"
+    },
+    {
+      "name": "Clay",
+      "uid": "terrafirmacraft:Clay",
+      "meta": 1,
+      "color": "#878689"
+    },
+    {
+      "name": "Clay",
+      "uid": "terrafirmacraft:Clay",
+      "meta": 2,
+      "color": "#818083"
+    },
+    {
+      "name": "Clay",
+      "uid": "terrafirmacraft:Clay",
+      "meta": 3,
+      "color": "#747377"
+    },
+    {
+      "name": "Clay",
+      "uid": "terrafirmacraft:Clay",
+      "meta": 4,
+      "color": "#8f847e"
+    },
+    {
+      "name": "Clay",
+      "uid": "terrafirmacraft:Clay",
+      "meta": 5,
+      "color": "#949092"
+    },
+    {
+      "name": "Clay",
+      "uid": "terrafirmacraft:Clay",
+      "meta": 6,
+      "color": "#938f8a"
+    },
+    {
+      "name": "Clay",
+      "uid": "terrafirmacraft:Clay",
+      "meta": 7,
+      "color": "#85807a"
+    },
+    {
+      "name": "Clay",
+      "uid": "terrafirmacraft:Clay",
+      "meta": 8,
+      "color": "#767478"
+    },
+    {
+      "name": "Clay",
+      "uid": "terrafirmacraft:Clay",
+      "meta": 9,
+      "color": "#7e726f"
+    },
+    {
+      "name": "Clay",
+      "uid": "terrafirmacraft:Clay",
+      "meta": 10,
+      "color": "#959495"
+    },
+    {
+      "name": "Clay",
+      "uid": "terrafirmacraft:Clay",
+      "meta": 11,
+      "color": "#868484"
+    },
+    {
+      "name": "Clay",
+      "uid": "terrafirmacraft:Clay",
+      "meta": 12,
+      "color": "#67676b"
+    },
+    {
+      "name": "Clay",
+      "uid": "terrafirmacraft:Clay",
+      "meta": 13,
+      "color": "#7d7d80"
+    },
+    {
+      "name": "Clay",
+      "uid": "terrafirmacraft:Clay",
+      "meta": 14,
+      "color": "#88878a"
+    },
+    {
+      "name": "Clay",
+      "uid": "terrafirmacraft:Clay",
+      "meta": 15,
+      "color": "#8f8b8d"
+    },
+    {
+      "name": "Clay",
+      "uid": "terrafirmacraft:Clay2",
+      "meta": 0,
+      "color": "#8b8886"
+    },
+    {
+      "name": "Clay",
+      "uid": "terrafirmacraft:Clay2",
+      "meta": 1,
+      "color": "#807d7e"
+    },
+    {
+      "name": "Clay",
+      "uid": "terrafirmacraft:Clay2",
+      "meta": 2,
+      "color": "#80807d"
+    },
+    {
+      "name": "Clay",
+      "uid": "terrafirmacraft:Clay2",
+      "meta": 3,
+      "color": "#888684"
+    },
+    {
+      "name": "Clay",
+      "uid": "terrafirmacraft:Clay2",
+      "meta": 4,
+      "color": "#959395"
+    },
+    {
+      "name": "Clay Grass",
+      "uid": "terrafirmacraft:ClayGrass",
+      "meta": 0,
+      "color": "#939393"
+    },
+    {
+      "name": "Clay Grass",
+      "uid": "terrafirmacraft:ClayGrass",
+      "meta": 1,
+      "color": "#939393"
+    },
+    {
+      "name": "Clay Grass",
+      "uid": "terrafirmacraft:ClayGrass",
+      "meta": 2,
+      "color": "#939393"
+    },
+    {
+      "name": "Clay Grass",
+      "uid": "terrafirmacraft:ClayGrass",
+      "meta": 3,
+      "color": "#939393"
+    },
+    {
+      "name": "Clay Grass",
+      "uid": "terrafirmacraft:ClayGrass",
+      "meta": 4,
+      "color": "#939393"
+    },
+    {
+      "name": "Clay Grass",
+      "uid": "terrafirmacraft:ClayGrass",
+      "meta": 5,
+      "color": "#939393"
+    },
+    {
+      "name": "Clay Grass",
+      "uid": "terrafirmacraft:ClayGrass",
+      "meta": 6,
+      "color": "#939393"
+    },
+    {
+      "name": "Clay Grass",
+      "uid": "terrafirmacraft:ClayGrass",
+      "meta": 7,
+      "color": "#939393"
+    },
+    {
+      "name": "Clay Grass",
+      "uid": "terrafirmacraft:ClayGrass",
+      "meta": 8,
+      "color": "#939393"
+    },
+    {
+      "name": "Clay Grass",
+      "uid": "terrafirmacraft:ClayGrass",
+      "meta": 9,
+      "color": "#939393"
+    },
+    {
+      "name": "Clay Grass",
+      "uid": "terrafirmacraft:ClayGrass",
+      "meta": 10,
+      "color": "#939393"
+    },
+    {
+      "name": "Clay Grass",
+      "uid": "terrafirmacraft:ClayGrass",
+      "meta": 11,
+      "color": "#939393"
+    },
+    {
+      "name": "Clay Grass",
+      "uid": "terrafirmacraft:ClayGrass",
+      "meta": 12,
+      "color": "#939393"
+    },
+    {
+      "name": "Clay Grass",
+      "uid": "terrafirmacraft:ClayGrass",
+      "meta": 13,
+      "color": "#939393"
+    },
+    {
+      "name": "Clay Grass",
+      "uid": "terrafirmacraft:ClayGrass",
+      "meta": 14,
+      "color": "#939393"
+    },
+    {
+      "name": "Clay Grass",
+      "uid": "terrafirmacraft:ClayGrass",
+      "meta": 15,
+      "color": "#939393"
+    },
+    {
+      "name": "Clay Grass",
+      "uid": "terrafirmacraft:ClayGrass2",
+      "meta": 0,
+      "color": "#939393"
+    },
+    {
+      "name": "Clay Grass",
+      "uid": "terrafirmacraft:ClayGrass2",
+      "meta": 1,
+      "color": "#939393"
+    },
+    {
+      "name": "Clay Grass",
+      "uid": "terrafirmacraft:ClayGrass2",
+      "meta": 2,
+      "color": "#939393"
+    },
+    {
+      "name": "Clay Grass",
+      "uid": "terrafirmacraft:ClayGrass2",
+      "meta": 3,
+      "color": "#939393"
+    },
+    {
+      "name": "Clay Grass",
+      "uid": "terrafirmacraft:ClayGrass2",
+      "meta": 4,
+      "color": "#939393"
+    },
+    {
+      "name": "Claystone",
+      "uid": "terrafirmacraft:StoneSed",
+      "meta": 1,
+      "color": "#a08870"
+    },
+    {
+      "name": "Claystone Brick Wall",
+      "uid": "terrafirmacraft:WallBrickSed",
+      "meta": 1,
+      "color": "#a7886a"
+    },
+    {
+      "name": "Claystone Bricks",
+      "uid": "terrafirmacraft:StoneSedBrick",
+      "meta": 1,
+      "color": "#a7886a"
+    },
+    {
+      "name": "Claystone Cobblestone",
+      "uid": "terrafirmacraft:StoneSedCobble",
+      "meta": 1,
+      "color": "#9e846b"
+    },
+    {
+      "name": "Claystone Cobblestone Wall",
+      "uid": "terrafirmacraft:WallCobbleSed",
+      "meta": 1,
+      "color": "#9e846b"
+    },
+    {
+      "name": "Claystone Mud Brick (Dry)",
+      "uid": "DecorationsTFC:MudBrickRaw.Claystone",
+      "meta": 1,
+      "color": "#a68769"
+    },
+    {
+      "name": "Claystone Mud Brick (Wet)",
+      "uid": "DecorationsTFC:MudBrickRaw.Claystone",
+      "meta": 0,
+      "color": "#a68769"
+    },
+    {
+      "name": "Claystone Mud Bricks",
+      "uid": "DecorationsTFC:MudBricks",
+      "meta": 4,
+      "color": "#6f5338"
+    },
+    {
+      "name": "Claystone Smooth Wall",
+      "uid": "terrafirmacraft:WallSmoothSed",
+      "meta": 1,
+      "color": "#a8896a"
+    },
+    {
+      "name": "Claystone Wall",
+      "uid": "terrafirmacraft:WallRawSed",
+      "meta": 1,
+      "color": "#a08870"
+    },
+    {
+      "name": "Cloudberry Bush",
+      "uid": "terrafirmacraft:BerryBush",
+      "meta": 10,
+      "color": "#839f39"
+    },
+    {
+      "name": "Coal Ore",
+      "uid": "minecraft:coal_ore",
+      "meta": 0,
+      "color": "#737373"
+    },
+    {
+      "name": "Cobblestone",
+      "uid": "minecraft:cobblestone",
+      "meta": 0,
+      "color": "#7a7a7a"
+    },
+    {
+      "name": "Cobblestone Slab",
+      "uid": "minecraft:stone_slab",
+      "meta": 3,
+      "color": "#7a7a7a"
+    },
+    {
+      "name": "Cobblestone Wall",
+      "uid": "minecraft:cobblestone_wall",
+      "meta": 0,
+      "color": "#7a7a7a"
+    },
+    {
+      "name": "Cobweb",
+      "uid": "minecraft:web",
+      "meta": 0,
+      "color": "#dcdcdc"
+    },
+    {
+      "name": "Cocoa",
+      "uid": "minecraft:cocoa",
+      "meta": 0,
+      "color": "#91501e"
+    },
+    {
+      "name": "Coke Brick",
+      "uid": "ImmersiveEngineering:stoneDecoration",
+      "meta": 1,
+      "color": "#474747"
+    },
+    {
+      "name": "Command Block",
+      "uid": "minecraft:command_block",
+      "meta": 0,
+      "color": "#b2896f"
+    },
+    {
+      "name": "Concrete",
+      "uid": "ImmersiveEngineering:stoneDecoration",
+      "meta": 4,
+      "color": "#776d66"
+    },
+    {
+      "name": "Concrete Slab",
+      "uid": "ImmersiveEngineering:stoneSlab",
+      "meta": 1,
+      "color": "#776d66"
+    },
+    {
+      "name": "Concrete Stairs",
+      "uid": "ImmersiveEngineering:concreteStairs",
+      "meta": 0,
+      "color": "#776d66"
+    },
+    {
+      "name": "Concrete Tile",
+      "uid": "ImmersiveEngineering:stoneDecoration",
+      "meta": 5,
+      "color": "#776d65"
+    },
+    {
+      "name": "Concrete Tile Slab",
+      "uid": "ImmersiveEngineering:stoneSlab",
+      "meta": 2,
+      "color": "#776d65"
+    },
+    {
+      "name": "Concrete Tile Stairs",
+      "uid": "ImmersiveEngineering:concreteTileStairs",
+      "meta": 0,
+      "color": "#776d65"
+    },
+    {
+      "name": "Conglomerate",
+      "uid": "terrafirmacraft:StoneSed",
+      "meta": 4,
+      "color": "#887d66"
+    },
+    {
+      "name": "Conglomerate Brick Wall",
+      "uid": "terrafirmacraft:WallBrickSed",
+      "meta": 4,
+      "color": "#877a5c"
+    },
+    {
+      "name": "Conglomerate Bricks",
+      "uid": "terrafirmacraft:StoneSedBrick",
+      "meta": 4,
+      "color": "#877a5c"
+    },
+    {
+      "name": "Conglomerate Cobblestone",
+      "uid": "terrafirmacraft:StoneSedCobble",
+      "meta": 4,
+      "color": "#84785f"
+    },
+    {
+      "name": "Conglomerate Cobblestone Wall",
+      "uid": "terrafirmacraft:WallCobbleSed",
+      "meta": 4,
+      "color": "#84785f"
+    },
+    {
+      "name": "Conglomerate Mud Brick (Dry)",
+      "uid": "DecorationsTFC:MudBrickRaw.Conglomerate",
+      "meta": 1,
+      "color": "#85785b"
+    },
+    {
+      "name": "Conglomerate Mud Brick (Wet)",
+      "uid": "DecorationsTFC:MudBrickRaw.Conglomerate",
+      "meta": 0,
+      "color": "#85785b"
+    },
+    {
+      "name": "Conglomerate Mud Bricks",
+      "uid": "DecorationsTFC:MudBricks",
+      "meta": 7,
+      "color": "#5a4a31"
+    },
+    {
+      "name": "Conglomerate Smooth Wall",
+      "uid": "terrafirmacraft:WallSmoothSed",
+      "meta": 4,
+      "color": "#887a5d"
+    },
+    {
+      "name": "Conglomerate Wall",
+      "uid": "terrafirmacraft:WallRawSed",
+      "meta": 4,
+      "color": "#887d66"
+    },
+    {
+      "name": "Constantan Slab",
+      "uid": "ImmersiveEngineering:storageSlab",
+      "meta": 5,
+      "color": "#ce6d56"
+    },
+    {
+      "name": "Conveyor Belt",
+      "uid": "ImmersiveEngineering:metalDevice",
+      "meta": 11,
+      "color": "#884830"
+    },
+    {
+      "name": "Copper Anvil",
+      "uid": "terrafirmacraft:Anvil",
+      "meta": 1,
+      "color": "#5e2111"
+    },
+    {
+      "name": "Copper Lantern",
+      "uid": "DecorationsTFC:Lantern.Copper",
+      "meta": 0,
+      "color": "#bc4128"
+    },
+    {
+      "name": "Copper Ore",
+      "uid": "ImmersiveEngineering:ore",
+      "meta": 0,
+      "color": "#787a79"
+    },
+    {
+      "name": "Copper Slab",
+      "uid": "ImmersiveEngineering:storageSlab",
+      "meta": 0,
+      "color": "#6ec6a0"
+    },
+    {
+      "name": "Copper Wire Coil",
+      "uid": "ImmersiveEngineering:storage",
+      "meta": 8,
+      "color": "#c37846"
+    },
+    {
+      "name": "Core Sample Drill",
+      "uid": "ImmersiveEngineering:metalDevice",
+      "meta": 14,
+      "color": "#59514d"
+    },
+    {
+      "name": "Cracked Stone Bricks",
+      "uid": "minecraft:stonebrick",
+      "meta": 2,
+      "color": "#767676"
+    },
+    {
+      "name": "Crafting Table",
+      "uid": "minecraft:crafting_table",
+      "meta": 0,
+      "color": "#6b472a"
+    },
+    {
+      "name": "Cranberry Bush",
+      "uid": "terrafirmacraft:BerryBush",
+      "meta": 6,
+      "color": "#726f33"
+    },
+    {
+      "name": "Creative Capacitor",
+      "uid": "ImmersiveEngineering:metalDevice2",
+      "meta": 8,
+      "color": "#554f59"
+    },
+    {
+      "name": "Crucible",
+      "uid": "terrafirmacraft:Crucible",
+      "meta": 0,
+      "color": "#322c1f"
+    },
+    {
+      "name": "Current Transformer",
+      "uid": "ImmersiveEngineering:metalDevice2",
+      "meta": 2,
+      "color": "#69615b"
+    },
+    {
+      "name": "Cyan Air Balloon",
+      "uid": "ArchimedesShipsPlus:balloon",
+      "meta": 9,
+      "color": "#9df2f2"
+    },
+    {
+      "name": "Cyan Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 9,
+      "color": "#2e6e89"
+    },
+    {
+      "name": "Cyan Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 9,
+      "color": "#565b5b"
+    },
+    {
+      "name": "Cyan Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 9,
+      "color": "#4c7f99",
+      "alpha": 0.4
+    },
+    {
+      "name": "Cyan Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 9,
+      "color": "#4c7f99",
+      "alpha": 0.4
+    },
+    {
+      "name": "Cyan Wool",
+      "uid": "minecraft:wool",
+      "meta": 9,
+      "color": "#2e6e89"
+    },
+    {
+      "name": "Dacite",
+      "uid": "terrafirmacraft:StoneIgEx",
+      "meta": 3,
+      "color": "#8d8d8e"
+    },
+    {
+      "name": "Dacite Brick Wall",
+      "uid": "terrafirmacraft:WallBrickIgEx",
+      "meta": 3,
+      "color": "#8f8f90"
+    },
+    {
+      "name": "Dacite Bricks",
+      "uid": "terrafirmacraft:StoneIgExBrick",
+      "meta": 3,
+      "color": "#8f8f90"
+    },
+    {
+      "name": "Dacite Cobblestone",
+      "uid": "terrafirmacraft:StoneIgExCobble",
+      "meta": 3,
+      "color": "#8a8a8b"
+    },
+    {
+      "name": "Dacite Cobblestone Wall",
+      "uid": "terrafirmacraft:WallCobbleIgEx",
+      "meta": 3,
+      "color": "#8a8a8b"
+    },
+    {
+      "name": "Dacite Mud Brick (Dry)",
+      "uid": "DecorationsTFC:MudBrickRaw.Dacite",
+      "meta": 1,
+      "color": "#8e8e8f"
+    },
+    {
+      "name": "Dacite Mud Brick (Wet)",
+      "uid": "DecorationsTFC:MudBrickRaw.Dacite",
+      "meta": 0,
+      "color": "#8e8e8f"
+    },
+    {
+      "name": "Dacite Mud Bricks",
+      "uid": "DecorationsTFC:MudBricks",
+      "meta": 14,
+      "color": "#5f574c"
+    },
+    {
+      "name": "Dacite Smooth Wall",
+      "uid": "terrafirmacraft:WallSmoothIgEx",
+      "meta": 3,
+      "color": "#909091"
+    },
+    {
+      "name": "Dacite Wall",
+      "uid": "terrafirmacraft:WallRawIgEx",
+      "meta": 3,
+      "color": "#8d8d8e"
+    },
+    {
+      "name": "Daisy",
+      "uid": "terrafirmacraft:Flowers2",
+      "meta": 8,
+      "color": "#b0c58b"
+    },
+    {
+      "name": "Dandelion",
+      "uid": "minecraft:yellow_flower",
+      "meta": 0,
+      "color": "#afb401"
+    },
+    {
+      "name": "Dandelion",
+      "uid": "terrafirmacraft:Flowers",
+      "meta": 0,
+      "color": "#6ca200"
+    },
+    {
+      "name": "Dark Oak Sapling",
+      "uid": "minecraft:sapling",
+      "meta": 5,
+      "color": "#38561c"
+    },
+    {
+      "name": "Dark Oak Wood",
+      "uid": "minecraft:log2",
+      "meta": 1,
+      "color": "#4e3e29"
+    },
+    {
+      "name": "Dark Oak Wood Planks",
+      "uid": "minecraft:planks",
+      "meta": 5,
+      "color": "#3d2712"
+    },
+    {
+      "name": "Dark Oak Wood Slab",
+      "uid": "minecraft:wooden_slab",
+      "meta": 5,
+      "color": "#3d2712"
+    },
+    {
+      "name": "Dark Oak Wood Stairs",
+      "uid": "minecraft:dark_oak_stairs",
+      "meta": 0,
+      "color": "#3d2712"
+    },
+    {
+      "name": "Daylight Sensor",
+      "uid": "minecraft:daylight_detector",
+      "meta": 0,
+      "color": "#82745e"
+    },
+    {
+      "name": "Dead Bush",
+      "uid": "minecraft:deadbush",
+      "meta": 0,
+      "color": "#7b4f19"
+    },
+    {
+      "name": "Detector Rail",
+      "uid": "minecraft:detector_rail",
+      "meta": 0,
+      "color": "#786559"
+    },
+    {
+      "name": "Diamond Ore",
+      "uid": "minecraft:diamond_ore",
+      "meta": 0,
+      "color": "#818c8f"
+    },
+    {
+      "name": "Diorite",
+      "uid": "terrafirmacraft:StoneIgIn",
+      "meta": 1,
+      "color": "#8c8c8c"
+    },
+    {
+      "name": "Diorite Brick Wall",
+      "uid": "terrafirmacraft:WallBrickIgIn",
+      "meta": 1,
+      "color": "#828282"
+    },
+    {
+      "name": "Diorite Bricks",
+      "uid": "terrafirmacraft:StoneIgInBrick",
+      "meta": 1,
+      "color": "#828282"
+    },
+    {
+      "name": "Diorite Cobblestone",
+      "uid": "terrafirmacraft:StoneIgInCobble",
+      "meta": 1,
+      "color": "#7f7f7f"
+    },
+    {
+      "name": "Diorite Cobblestone Wall",
+      "uid": "terrafirmacraft:WallCobbleIgIn",
+      "meta": 1,
+      "color": "#7f7f7f"
+    },
+    {
+      "name": "Diorite Mud Brick (Dry)",
+      "uid": "DecorationsTFC:MudBrickRaw.Diorite",
+      "meta": 1,
+      "color": "#848483"
+    },
+    {
+      "name": "Diorite Mud Brick (Wet)",
+      "uid": "DecorationsTFC:MudBrickRaw.Diorite",
+      "meta": 0,
+      "color": "#848483"
+    },
+    {
+      "name": "Diorite Mud Bricks",
+      "uid": "DecorationsTFC:MudBricks",
+      "meta": 1,
+      "color": "#564f45"
+    },
+    {
+      "name": "Diorite Smooth Wall",
+      "uid": "terrafirmacraft:WallSmoothIgIn",
+      "meta": 1,
+      "color": "#8e8e8d"
+    },
+    {
+      "name": "Diorite Wall",
+      "uid": "terrafirmacraft:WallRawIgIn",
+      "meta": 1,
+      "color": "#8c8c8c"
+    },
+    {
+      "name": "Dirt",
+      "uid": "minecraft:dirt",
+      "meta": 0,
+      "color": "#866043"
+    },
+    {
+      "name": "Dirt",
+      "uid": "minecraft:dirt",
+      "meta": 2,
+      "color": "#5a3f1c"
+    },
+    {
+      "name": "Dirt",
+      "uid": "terrafirmacraft:Dirt",
+      "meta": 0,
+      "color": "#877e75"
+    },
+    {
+      "name": "Dirt",
+      "uid": "terrafirmacraft:Dirt",
+      "meta": 1,
+      "color": "#746c66"
+    },
+    {
+      "name": "Dirt",
+      "uid": "terrafirmacraft:Dirt",
+      "meta": 2,
+      "color": "#68615a"
+    },
+    {
+      "name": "Dirt",
+      "uid": "terrafirmacraft:Dirt",
+      "meta": 3,
+      "color": "#4e4642"
+    },
+    {
+      "name": "Dirt",
+      "uid": "terrafirmacraft:Dirt",
+      "meta": 4,
+      "color": "#937d6a"
+    },
+    {
+      "name": "Dirt",
+      "uid": "terrafirmacraft:Dirt",
+      "meta": 5,
+      "color": "#8c7f77"
+    },
+    {
+      "name": "Dirt",
+      "uid": "terrafirmacraft:Dirt",
+      "meta": 6,
+      "color": "#8a7d68"
+    },
+    {
+      "name": "Dirt",
+      "uid": "terrafirmacraft:Dirt",
+      "meta": 7,
+      "color": "#8c7f77"
+    },
+    {
+      "name": "Dirt",
+      "uid": "terrafirmacraft:Dirt",
+      "meta": 8,
+      "color": "#514844"
+    },
+    {
+      "name": "Dirt",
+      "uid": "terrafirmacraft:Dirt",
+      "meta": 9,
+      "color": "#836850"
+    },
+    {
+      "name": "Dirt",
+      "uid": "terrafirmacraft:Dirt",
+      "meta": 10,
+      "color": "#8f877e"
+    },
+    {
+      "name": "Dirt",
+      "uid": "terrafirmacraft:Dirt",
+      "meta": 11,
+      "color": "#72675b"
+    },
+    {
+      "name": "Dirt",
+      "uid": "terrafirmacraft:Dirt",
+      "meta": 12,
+      "color": "#342f2b"
+    },
+    {
+      "name": "Dirt",
+      "uid": "terrafirmacraft:Dirt",
+      "meta": 13,
+      "color": "#5f5a55"
+    },
+    {
+      "name": "Dirt",
+      "uid": "terrafirmacraft:Dirt",
+      "meta": 14,
+      "color": "#756d68"
+    },
+    {
+      "name": "Dirt",
+      "uid": "terrafirmacraft:Dirt",
+      "meta": 15,
+      "color": "#82756d"
+    },
+    {
+      "name": "Dirt",
+      "uid": "terrafirmacraft:Dirt2",
+      "meta": 0,
+      "color": "#7b6f61"
+    },
+    {
+      "name": "Dirt",
+      "uid": "terrafirmacraft:Dirt2",
+      "meta": 1,
+      "color": "#807671"
+    },
+    {
+      "name": "Dirt",
+      "uid": "terrafirmacraft:Dirt2",
+      "meta": 2,
+      "color": "#65614d"
+    },
+    {
+      "name": "Dirt",
+      "uid": "terrafirmacraft:Dirt2",
+      "meta": 3,
+      "color": "#766b5c"
+    },
+    {
+      "name": "Dirt",
+      "uid": "terrafirmacraft:Dirt2",
+      "meta": 4,
+      "color": "#8f857d"
+    },
+    {
+      "name": "Dispenser",
+      "uid": "minecraft:dispenser",
+      "meta": 0,
+      "color": "#606060"
+    },
+    {
+      "name": "Dolomite",
+      "uid": "terrafirmacraft:StoneSed",
+      "meta": 5,
+      "color": "#605e61"
+    },
+    {
+      "name": "Dolomite Brick Wall",
+      "uid": "terrafirmacraft:WallBrickSed",
+      "meta": 5,
+      "color": "#555256"
+    },
+    {
+      "name": "Dolomite Bricks",
+      "uid": "terrafirmacraft:StoneSedBrick",
+      "meta": 5,
+      "color": "#555256"
+    },
+    {
+      "name": "Dolomite Cobblestone",
+      "uid": "terrafirmacraft:StoneSedCobble",
+      "meta": 5,
+      "color": "#59565a"
+    },
+    {
+      "name": "Dolomite Cobblestone Wall",
+      "uid": "terrafirmacraft:WallCobbleSed",
+      "meta": 5,
+      "color": "#59565a"
+    },
+    {
+      "name": "Dolomite Mud Brick (Dry)",
+      "uid": "DecorationsTFC:MudBrickRaw.Dolomite",
+      "meta": 1,
+      "color": "#555357"
+    },
+    {
+      "name": "Dolomite Mud Brick (Wet)",
+      "uid": "DecorationsTFC:MudBrickRaw.Dolomite",
+      "meta": 0,
+      "color": "#555357"
+    },
+    {
+      "name": "Dolomite Mud Bricks",
+      "uid": "DecorationsTFC:MudBricks",
+      "meta": 8,
+      "color": "#38322e"
+    },
+    {
+      "name": "Dolomite Smooth Wall",
+      "uid": "terrafirmacraft:WallSmoothSed",
+      "meta": 5,
+      "color": "#555256"
+    },
+    {
+      "name": "Dolomite Wall",
+      "uid": "terrafirmacraft:WallRawSed",
+      "meta": 5,
+      "color": "#605e61"
+    },
+    {
+      "name": "Double Tallgrass",
+      "uid": "minecraft:double_plant",
+      "meta": 2,
+      "color": "#818181"
+    },
+    {
+      "name": "Douglas Fir Barrel",
+      "uid": "terrafirmacraft:Barrel",
+      "meta": 4,
+      "color": "#e1b082"
+    },
+    {
+      "name": "Douglas Fir Door",
+      "uid": "terrafirmacraft:DoorDouglasFir",
+      "meta": 0,
+      "color": "#d7a87d"
+    },
+    {
+      "name": "Douglas Fir Fence",
+      "uid": "terrafirmacraft:Fence",
+      "meta": 4,
+      "color": "#d8a87d",
+      "alpha": 0.4
+    },
+    {
+      "name": "Douglas Fir Fence Gate",
+      "uid": "terrafirmacraft:FenceGate",
+      "meta": 4,
+      "color": "#e1b082",
+      "alpha": 0.4
+    },
+    {
+      "name": "Douglas Fir Log",
+      "uid": "terrafirmacraft:WoodHoriz",
+      "meta": 4,
+      "color": "#17100b"
+    },
+    {
+      "name": "Douglas Fir Log",
+      "uid": "terrafirmacraft:WoodVert",
+      "meta": 4,
+      "color": "#9f784a"
+    },
+    {
+      "name": "Douglas Fir Log",
+      "uid": "terrafirmacraft:log",
+      "meta": 4,
+      "color": "#9f784a"
+    },
+    {
+      "name": "Douglas Fir Loom",
+      "uid": "terrafirmacraft:Loom",
+      "meta": 4,
+      "color": "#e1b082"
+    },
+    {
+      "name": "Douglas Fir Planks",
+      "uid": "terrafirmacraft:planks",
+      "meta": 4,
+      "color": "#e1b082"
+    },
+    {
+      "name": "Douglas Fir Sapling",
+      "uid": "terrafirmacraft:sapling",
+      "meta": 4,
+      "color": "#764935"
+    },
+    {
+      "name": "Douglas Fir Support Beam",
+      "uid": "terrafirmacraft:WoodSupportV",
+      "meta": 4,
+      "color": "#c89960"
+    },
+    {
+      "name": "Douglas Fir Tool Rack",
+      "uid": "terrafirmacraft:ToolRack",
+      "meta": 4,
+      "color": "#c89960"
+    },
+    {
+      "name": "Dragon Egg",
+      "uid": "minecraft:dragon_egg",
+      "meta": 0,
+      "color": "#0c090f"
+    },
+    {
+      "name": "Dropper",
+      "uid": "minecraft:dropper",
+      "meta": 0,
+      "color": "#606060"
+    },
+    {
+      "name": "Dropping Conveyor Belt",
+      "uid": "ImmersiveEngineering:metalDevice",
+      "meta": 15,
+      "color": "#754736"
+    },
+    {
+      "name": "Dry Grass",
+      "uid": "terrafirmacraft:DryGrass",
+      "meta": 0,
+      "color": "#929292"
+    },
+    {
+      "name": "Dry Grass",
+      "uid": "terrafirmacraft:DryGrass",
+      "meta": 1,
+      "color": "#929292"
+    },
+    {
+      "name": "Dry Grass",
+      "uid": "terrafirmacraft:DryGrass",
+      "meta": 2,
+      "color": "#929292"
+    },
+    {
+      "name": "Dry Grass",
+      "uid": "terrafirmacraft:DryGrass",
+      "meta": 3,
+      "color": "#929292"
+    },
+    {
+      "name": "Dry Grass",
+      "uid": "terrafirmacraft:DryGrass",
+      "meta": 4,
+      "color": "#929292"
+    },
+    {
+      "name": "Dry Grass",
+      "uid": "terrafirmacraft:DryGrass",
+      "meta": 5,
+      "color": "#929292"
+    },
+    {
+      "name": "Dry Grass",
+      "uid": "terrafirmacraft:DryGrass",
+      "meta": 6,
+      "color": "#929292"
+    },
+    {
+      "name": "Dry Grass",
+      "uid": "terrafirmacraft:DryGrass",
+      "meta": 7,
+      "color": "#929292"
+    },
+    {
+      "name": "Dry Grass",
+      "uid": "terrafirmacraft:DryGrass",
+      "meta": 8,
+      "color": "#929292"
+    },
+    {
+      "name": "Dry Grass",
+      "uid": "terrafirmacraft:DryGrass",
+      "meta": 9,
+      "color": "#929292"
+    },
+    {
+      "name": "Dry Grass",
+      "uid": "terrafirmacraft:DryGrass",
+      "meta": 10,
+      "color": "#929292"
+    },
+    {
+      "name": "Dry Grass",
+      "uid": "terrafirmacraft:DryGrass",
+      "meta": 11,
+      "color": "#929292"
+    },
+    {
+      "name": "Dry Grass",
+      "uid": "terrafirmacraft:DryGrass",
+      "meta": 12,
+      "color": "#929292"
+    },
+    {
+      "name": "Dry Grass",
+      "uid": "terrafirmacraft:DryGrass",
+      "meta": 13,
+      "color": "#929292"
+    },
+    {
+      "name": "Dry Grass",
+      "uid": "terrafirmacraft:DryGrass",
+      "meta": 14,
+      "color": "#929292"
+    },
+    {
+      "name": "Dry Grass",
+      "uid": "terrafirmacraft:DryGrass",
+      "meta": 15,
+      "color": "#929292"
+    },
+    {
+      "name": "Dry Grass",
+      "uid": "terrafirmacraft:DryGrass2",
+      "meta": 0,
+      "color": "#929292"
+    },
+    {
+      "name": "Dry Grass",
+      "uid": "terrafirmacraft:DryGrass2",
+      "meta": 1,
+      "color": "#929292"
+    },
+    {
+      "name": "Dry Grass",
+      "uid": "terrafirmacraft:DryGrass2",
+      "meta": 2,
+      "color": "#929292"
+    },
+    {
+      "name": "Dry Grass",
+      "uid": "terrafirmacraft:DryGrass2",
+      "meta": 3,
+      "color": "#929292"
+    },
+    {
+      "name": "Dry Grass",
+      "uid": "terrafirmacraft:DryGrass2",
+      "meta": 4,
+      "color": "#929292"
+    },
+    {
+      "name": "Drying Mat",
+      "uid": "tfcudarymod:tile.Drying Mat",
+      "meta": 0,
+      "color": "#bf9e56"
+    },
+    {
+      "name": "Elderberry Bush",
+      "uid": "terrafirmacraft:BerryBush",
+      "meta": 8,
+      "color": "#46741c"
+    },
+    {
+      "name": "Electrum Slab",
+      "uid": "ImmersiveEngineering:storageSlab",
+      "meta": 6,
+      "color": "#ebd07f"
+    },
+    {
+      "name": "Electrum Wire Coil",
+      "uid": "ImmersiveEngineering:storage",
+      "meta": 9,
+      "color": "#d1a261"
+    },
+    {
+      "name": "Emerald Ore",
+      "uid": "minecraft:emerald_ore",
+      "meta": 0,
+      "color": "#6d8074"
+    },
+    {
+      "name": "Enchantment Table",
+      "uid": "minecraft:enchanting_table",
+      "meta": 0,
+      "color": "#67403b"
+    },
+    {
+      "name": "End Portal",
+      "uid": "minecraft:end_portal_frame",
+      "meta": 0,
+      "color": "#597560"
+    },
+    {
+      "name": "End Stone",
+      "uid": "minecraft:end_stone",
+      "meta": 0,
+      "color": "#dddfa5"
+    },
+    {
+      "name": "Ender Chest",
+      "uid": "minecraft:ender_chest",
+      "meta": 0,
+      "color": "#14121d"
+    },
+    {
+      "name": "Engineer\u0027s Workbench",
+      "uid": "ImmersiveEngineering:woodenDevice",
+      "meta": 5,
+      "color": "#553b32"
+    },
+    {
+      "name": "Evaporator Pan",
+      "uid": "tfcudarymod:tile.Evaporator Pan",
+      "meta": 0,
+      "color": "#b23e25"
+    },
+    {
+      "name": "External Heater",
+      "uid": "ImmersiveEngineering:metalDevice",
+      "meta": 12,
+      "color": "#494c50"
+    },
+    {
+      "name": "Extinguished Torch",
+      "uid": "terrafirmacraft:TorchOff",
+      "meta": 0,
+      "color": "#59472c"
+    },
+    {
+      "name": "Farmland",
+      "uid": "minecraft:farmland",
+      "meta": 0,
+      "color": "#734b2d"
+    },
+    {
+      "name": "Farmland",
+      "uid": "terrafirmacraft:tilledSoil",
+      "meta": 0,
+      "color": "#564e45"
+    },
+    {
+      "name": "Farmland",
+      "uid": "terrafirmacraft:tilledSoil",
+      "meta": 1,
+      "color": "#554e48"
+    },
+    {
+      "name": "Farmland",
+      "uid": "terrafirmacraft:tilledSoil",
+      "meta": 2,
+      "color": "#554e48"
+    },
+    {
+      "name": "Farmland",
+      "uid": "terrafirmacraft:tilledSoil",
+      "meta": 3,
+      "color": "#524b48"
+    },
+    {
+      "name": "Farmland",
+      "uid": "terrafirmacraft:tilledSoil",
+      "meta": 4,
+      "color": "#654a32"
+    },
+    {
+      "name": "Farmland",
+      "uid": "terrafirmacraft:tilledSoil",
+      "meta": 5,
+      "color": "#594c45"
+    },
+    {
+      "name": "Farmland",
+      "uid": "terrafirmacraft:tilledSoil",
+      "meta": 6,
+      "color": "#5b4e39"
+    },
+    {
+      "name": "Farmland",
+      "uid": "terrafirmacraft:tilledSoil",
+      "meta": 7,
+      "color": "#5d4d35"
+    },
+    {
+      "name": "Farmland",
+      "uid": "terrafirmacraft:tilledSoil",
+      "meta": 8,
+      "color": "#564d49"
+    },
+    {
+      "name": "Farmland",
+      "uid": "terrafirmacraft:tilledSoil",
+      "meta": 9,
+      "color": "#654937"
+    },
+    {
+      "name": "Farmland",
+      "uid": "terrafirmacraft:tilledSoil",
+      "meta": 10,
+      "color": "#564e45"
+    },
+    {
+      "name": "Farmland",
+      "uid": "terrafirmacraft:tilledSoil",
+      "meta": 11,
+      "color": "#5c4e42"
+    },
+    {
+      "name": "Farmland",
+      "uid": "terrafirmacraft:tilledSoil",
+      "meta": 12,
+      "color": "#353230"
+    },
+    {
+      "name": "Farmland",
+      "uid": "terrafirmacraft:tilledSoil",
+      "meta": 13,
+      "color": "#534f49"
+    },
+    {
+      "name": "Farmland",
+      "uid": "terrafirmacraft:tilledSoil",
+      "meta": 14,
+      "color": "#554e49"
+    },
+    {
+      "name": "Farmland",
+      "uid": "terrafirmacraft:tilledSoil",
+      "meta": 15,
+      "color": "#5a4c44"
+    },
+    {
+      "name": "Farmland",
+      "uid": "terrafirmacraft:tilledSoil2",
+      "meta": 0,
+      "color": "#5a4d3f"
+    },
+    {
+      "name": "Farmland",
+      "uid": "terrafirmacraft:tilledSoil2",
+      "meta": 1,
+      "color": "#584d44"
+    },
+    {
+      "name": "Farmland",
+      "uid": "terrafirmacraft:tilledSoil2",
+      "meta": 2,
+      "color": "#55503d"
+    },
+    {
+      "name": "Farmland",
+      "uid": "terrafirmacraft:tilledSoil2",
+      "meta": 3,
+      "color": "#594e3e"
+    },
+    {
+      "name": "Farmland",
+      "uid": "terrafirmacraft:tilledSoil2",
+      "meta": 4,
+      "color": "#584d45"
+    },
+    {
+      "name": "Fence",
+      "uid": "minecraft:fence",
+      "meta": 0,
+      "color": "#9c7f4e",
+      "alpha": 0.4
+    },
+    {
+      "name": "Fence Gate",
+      "uid": "minecraft:fence_gate",
+      "meta": 0,
+      "color": "#9c7f4e",
+      "alpha": 0.4
+    },
+    {
+      "name": "Fermenter",
+      "uid": "ImmersiveEngineering:metalMultiblock",
+      "meta": 3,
+      "color": "#595858"
+    },
+    {
+      "name": "Fire",
+      "uid": "minecraft:fire",
+      "meta": 0,
+      "color": "#d18629"
+    },
+    {
+      "name": "Fire Brick Block",
+      "uid": "terrafirmacraft:FireBrick",
+      "meta": 0,
+      "color": "#735d4d"
+    },
+    {
+      "name": "Firepit",
+      "uid": "terrafirmacraft:Firepit",
+      "meta": 0,
+      "color": "#443e34"
+    },
+    {
+      "name": "Floater",
+      "uid": "ArchimedesShipsPlus:floater",
+      "meta": 0,
+      "color": "#d2e0f5"
+    },
+    {
+      "name": "Floodlight",
+      "uid": "ImmersiveEngineering:metalDevice2",
+      "meta": 4,
+      "color": "#ffbb51"
+    },
+    {
+      "name": "Flower Pot",
+      "uid": "minecraft:flower_pot",
+      "meta": 0,
+      "color": "#764133"
+    },
+    {
+      "name": "Flower Pot",
+      "uid": "terrafirmacraft:FlowerPot",
+      "meta": 0,
+      "color": "#764133"
+    },
+    {
+      "name": "Fluid Pipe",
+      "uid": "ImmersiveEngineering:metalDevice2",
+      "meta": 5,
+      "color": "#838383"
+    },
+    {
+      "name": "Fluid Pump",
+      "uid": "ImmersiveEngineering:metalDevice2",
+      "meta": 6,
+      "color": "#4f545d"
+    },
+    {
+      "name": "Forge",
+      "uid": "terrafirmacraft:Forge",
+      "meta": 0,
+      "color": "#171111"
+    },
+    {
+      "name": "Frequency Tuner",
+      "uid": "betterrecords:frequencytuner",
+      "meta": 0,
+      "color": "#916a40"
+    },
+    {
+      "name": "Fresh Water",
+      "uid": "terrafirmacraft:FreshWaterStationary",
+      "meta": 0,
+      "color": "#2e43f4",
+      "alpha": 0.3
+    },
+    {
+      "name": "Fresh Water Flowing",
+      "uid": "terrafirmacraft:FreshWater",
+      "meta": 0,
+      "color": "#2e43f4",
+      "alpha": 0.3
+    },
+    {
+      "name": "Fruit Tree",
+      "uid": "terrafirmacraft:fruitTreeWood",
+      "meta": 0,
+      "color": "#665131"
+    },
+    {
+      "name": "Fruit Tree Leaves",
+      "uid": "terrafirmacraft:fruitTreeLeaves",
+      "meta": 0,
+      "color": "#919191"
+    },
+    {
+      "name": "Fruit Tree Leaves",
+      "uid": "terrafirmacraft:fruitTreeLeaves2",
+      "meta": 0,
+      "color": "#919191"
+    },
+    {
+      "name": "Furnace",
+      "uid": "minecraft:furnace",
+      "meta": 0,
+      "color": "#606060"
+    },
+    {
+      "name": "Furnace",
+      "uid": "minecraft:lit_furnace",
+      "meta": 0,
+      "color": "#606060"
+    },
+    {
+      "name": "Gabbro",
+      "uid": "terrafirmacraft:StoneIgIn",
+      "meta": 2,
+      "color": "#7d7d7d"
+    },
+    {
+      "name": "Gabbro Brick Wall",
+      "uid": "terrafirmacraft:WallBrickIgIn",
+      "meta": 2,
+      "color": "#7a7a7a"
+    },
+    {
+      "name": "Gabbro Bricks",
+      "uid": "terrafirmacraft:StoneIgInBrick",
+      "meta": 2,
+      "color": "#7a7a7a"
+    },
+    {
+      "name": "Gabbro Cobblestone",
+      "uid": "terrafirmacraft:StoneIgInCobble",
+      "meta": 2,
+      "color": "#797978"
+    },
+    {
+      "name": "Gabbro Cobblestone Wall",
+      "uid": "terrafirmacraft:WallCobbleIgIn",
+      "meta": 2,
+      "color": "#797978"
+    },
+    {
+      "name": "Gabbro Mud Brick (Dry)",
+      "uid": "DecorationsTFC:MudBrickRaw.Gabbro",
+      "meta": 1,
+      "color": "#7b7b7b"
+    },
+    {
+      "name": "Gabbro Mud Brick (Wet)",
+      "uid": "DecorationsTFC:MudBrickRaw.Gabbro",
+      "meta": 0,
+      "color": "#7b7b7b"
+    },
+    {
+      "name": "Gabbro Mud Bricks",
+      "uid": "DecorationsTFC:MudBricks",
+      "meta": 2,
+      "color": "#514a41"
+    },
+    {
+      "name": "Gabbro Smooth Wall",
+      "uid": "terrafirmacraft:WallSmoothIgIn",
+      "meta": 2,
+      "color": "#7b7b7b"
+    },
+    {
+      "name": "Gabbro Wall",
+      "uid": "terrafirmacraft:WallRawIgIn",
+      "meta": 2,
+      "color": "#7d7d7d"
+    },
+    {
+      "name": "Generator Block",
+      "uid": "ImmersiveEngineering:metalDecoration",
+      "meta": 6,
+      "color": "#715645"
+    },
+    {
+      "name": "Glass",
+      "uid": "minecraft:glass",
+      "meta": 0,
+      "color": "#daf0f4",
+      "alpha": 0.4
+    },
+    {
+      "name": "Glass Pane",
+      "uid": "minecraft:glass_pane",
+      "meta": 0,
+      "color": "#daf0f4",
+      "alpha": 0.4
+    },
+    {
+      "name": "Glowstone",
+      "uid": "minecraft:glowstone",
+      "meta": 0,
+      "color": "#8f7645",
+      "alpha": 0.4
+    },
+    {
+      "name": "Gneiss",
+      "uid": "terrafirmacraft:StoneMM",
+      "meta": 4,
+      "color": "#8f8b7f"
+    },
+    {
+      "name": "Gneiss Brick Wall",
+      "uid": "terrafirmacraft:WallBrickMM",
+      "meta": 4,
+      "color": "#918b7c"
+    },
+    {
+      "name": "Gneiss Bricks",
+      "uid": "terrafirmacraft:StoneMMBrick",
+      "meta": 4,
+      "color": "#918b7c"
+    },
+    {
+      "name": "Gneiss Cobblestone",
+      "uid": "terrafirmacraft:StoneMMCobble",
+      "meta": 4,
+      "color": "#8a8679"
+    },
+    {
+      "name": "Gneiss Cobblestone Wall",
+      "uid": "terrafirmacraft:WallCobbleMM",
+      "meta": 4,
+      "color": "#8a8679"
+    },
+    {
+      "name": "Gneiss Mud Brick (Dry)",
+      "uid": "DecorationsTFC:MudBrickRaw.Gneiss",
+      "meta": 1,
+      "color": "#948d7e"
+    },
+    {
+      "name": "Gneiss Mud Brick (Wet)",
+      "uid": "DecorationsTFC:MudBrickRaw.Gneiss",
+      "meta": 0,
+      "color": "#948d7e"
+    },
+    {
+      "name": "Gneiss Mud Bricks",
+      "uid": "DecorationsTFC:MudBricks2",
+      "meta": 3,
+      "color": "#605542"
+    },
+    {
+      "name": "Gneiss Smooth Wall",
+      "uid": "terrafirmacraft:WallSmoothMM",
+      "meta": 4,
+      "color": "#928c7d"
+    },
+    {
+      "name": "Gneiss Wall",
+      "uid": "terrafirmacraft:WallRawMM",
+      "meta": 4,
+      "color": "#8f8b7f"
+    },
+    {
+      "name": "Gold Lantern",
+      "uid": "DecorationsTFC:Lantern.Gold",
+      "meta": 0,
+      "color": "#efbf23"
+    },
+    {
+      "name": "Gold Oil Lamp",
+      "uid": "terrafirmacraft:OilLamp",
+      "meta": 0,
+      "color": "#d7be1b"
+    },
+    {
+      "name": "Gold Oil Lamp",
+      "uid": "terrafirmacraft:OilLamp",
+      "meta": 1,
+      "color": "#9aa9bb"
+    },
+    {
+      "name": "Gold Oil Lamp",
+      "uid": "terrafirmacraft:OilLamp",
+      "meta": 2,
+      "color": "#e76f35"
+    },
+    {
+      "name": "Gold Oil Lamp",
+      "uid": "terrafirmacraft:OilLamp",
+      "meta": 3,
+      "color": "#929292"
+    },
+    {
+      "name": "Gold Oil Lamp",
+      "uid": "terrafirmacraft:OilLamp",
+      "meta": 4,
+      "color": "#a58c77"
+    },
+    {
+      "name": "Gold Oil Lamp",
+      "uid": "terrafirmacraft:OilLamp",
+      "meta": 5,
+      "color": "#2a5398"
+    },
+    {
+      "name": "Gold Ore",
+      "uid": "minecraft:gold_ore",
+      "meta": 0,
+      "color": "#8f8b7c"
+    },
+    {
+      "name": "Goldenrod",
+      "uid": "terrafirmacraft:Flora",
+      "meta": 0,
+      "color": "#4a5b10"
+    },
+    {
+      "name": "Gooseberry Bush",
+      "uid": "terrafirmacraft:BerryBush",
+      "meta": 9,
+      "color": "#457c23"
+    },
+    {
+      "name": "Granite",
+      "uid": "terrafirmacraft:StoneIgIn",
+      "meta": 0,
+      "color": "#a5a39f"
+    },
+    {
+      "name": "Granite Brick Wall",
+      "uid": "terrafirmacraft:WallBrickIgIn",
+      "meta": 0,
+      "color": "#adaaa5"
+    },
+    {
+      "name": "Granite Bricks",
+      "uid": "terrafirmacraft:StoneIgInBrick",
+      "meta": 0,
+      "color": "#adaaa5"
+    },
+    {
+      "name": "Granite Cobblestone",
+      "uid": "terrafirmacraft:StoneIgInCobble",
+      "meta": 0,
+      "color": "#a4a29d"
+    },
+    {
+      "name": "Granite Cobblestone Wall",
+      "uid": "terrafirmacraft:WallCobbleIgIn",
+      "meta": 0,
+      "color": "#a4a29d"
+    },
+    {
+      "name": "Granite Mud Brick (Dry)",
+      "uid": "DecorationsTFC:MudBrickRaw.Granite",
+      "meta": 1,
+      "color": "#aca9a4"
+    },
+    {
+      "name": "Granite Mud Brick (Wet)",
+      "uid": "DecorationsTFC:MudBrickRaw.Granite",
+      "meta": 0,
+      "color": "#aca9a4"
+    },
+    {
+      "name": "Granite Mud Bricks",
+      "uid": "DecorationsTFC:MudBricks",
+      "meta": 0,
+      "color": "#736858"
+    },
+    {
+      "name": "Granite Smooth Wall",
+      "uid": "terrafirmacraft:WallSmoothIgIn",
+      "meta": 0,
+      "color": "#aeaca6"
+    },
+    {
+      "name": "Granite Wall",
+      "uid": "terrafirmacraft:WallRawIgIn",
+      "meta": 0,
+      "color": "#a5a39f"
+    },
+    {
+      "name": "Grass",
+      "uid": "terrafirmacraft:Grass",
+      "meta": 0,
+      "color": "#939393"
+    },
+    {
+      "name": "Grass",
+      "uid": "terrafirmacraft:Grass",
+      "meta": 1,
+      "color": "#939393"
+    },
+    {
+      "name": "Grass",
+      "uid": "terrafirmacraft:Grass",
+      "meta": 2,
+      "color": "#939393"
+    },
+    {
+      "name": "Grass",
+      "uid": "terrafirmacraft:Grass",
+      "meta": 3,
+      "color": "#939393"
+    },
+    {
+      "name": "Grass",
+      "uid": "terrafirmacraft:Grass",
+      "meta": 4,
+      "color": "#939393"
+    },
+    {
+      "name": "Grass",
+      "uid": "terrafirmacraft:Grass",
+      "meta": 5,
+      "color": "#939393"
+    },
+    {
+      "name": "Grass",
+      "uid": "terrafirmacraft:Grass",
+      "meta": 6,
+      "color": "#939393"
+    },
+    {
+      "name": "Grass",
+      "uid": "terrafirmacraft:Grass",
+      "meta": 7,
+      "color": "#939393"
+    },
+    {
+      "name": "Grass",
+      "uid": "terrafirmacraft:Grass",
+      "meta": 8,
+      "color": "#939393"
+    },
+    {
+      "name": "Grass",
+      "uid": "terrafirmacraft:Grass",
+      "meta": 9,
+      "color": "#939393"
+    },
+    {
+      "name": "Grass",
+      "uid": "terrafirmacraft:Grass",
+      "meta": 10,
+      "color": "#939393"
+    },
+    {
+      "name": "Grass",
+      "uid": "terrafirmacraft:Grass",
+      "meta": 11,
+      "color": "#939393"
+    },
+    {
+      "name": "Grass",
+      "uid": "terrafirmacraft:Grass",
+      "meta": 12,
+      "color": "#939393"
+    },
+    {
+      "name": "Grass",
+      "uid": "terrafirmacraft:Grass",
+      "meta": 13,
+      "color": "#939393"
+    },
+    {
+      "name": "Grass",
+      "uid": "terrafirmacraft:Grass",
+      "meta": 14,
+      "color": "#939393"
+    },
+    {
+      "name": "Grass",
+      "uid": "terrafirmacraft:Grass",
+      "meta": 15,
+      "color": "#939393"
+    },
+    {
+      "name": "Grass",
+      "uid": "terrafirmacraft:Grass2",
+      "meta": 0,
+      "color": "#939393"
+    },
+    {
+      "name": "Grass",
+      "uid": "terrafirmacraft:Grass2",
+      "meta": 1,
+      "color": "#939393"
+    },
+    {
+      "name": "Grass",
+      "uid": "terrafirmacraft:Grass2",
+      "meta": 2,
+      "color": "#939393"
+    },
+    {
+      "name": "Grass",
+      "uid": "terrafirmacraft:Grass2",
+      "meta": 3,
+      "color": "#939393"
+    },
+    {
+      "name": "Grass",
+      "uid": "terrafirmacraft:Grass2",
+      "meta": 4,
+      "color": "#939393"
+    },
+    {
+      "name": "Grass Block",
+      "uid": "minecraft:grass",
+      "meta": 0,
+      "color": "#939393"
+    },
+    {
+      "name": "Gravel",
+      "uid": "minecraft:gravel",
+      "meta": 0,
+      "color": "#7e7c7a"
+    },
+    {
+      "name": "Gravel",
+      "uid": "terrafirmacraft:Gravel",
+      "meta": 0,
+      "color": "#93918d"
+    },
+    {
+      "name": "Gravel",
+      "uid": "terrafirmacraft:Gravel",
+      "meta": 1,
+      "color": "#898987"
+    },
+    {
+      "name": "Gravel",
+      "uid": "terrafirmacraft:Gravel",
+      "meta": 2,
+      "color": "#898989"
+    },
+    {
+      "name": "Gravel",
+      "uid": "terrafirmacraft:Gravel",
+      "meta": 3,
+      "color": "#514f52"
+    },
+    {
+      "name": "Gravel",
+      "uid": "terrafirmacraft:Gravel",
+      "meta": 4,
+      "color": "#91785f"
+    },
+    {
+      "name": "Gravel",
+      "uid": "terrafirmacraft:Gravel",
+      "meta": 5,
+      "color": "#a29a96"
+    },
+    {
+      "name": "Gravel",
+      "uid": "terrafirmacraft:Gravel",
+      "meta": 6,
+      "color": "#a39c88"
+    },
+    {
+      "name": "Gravel",
+      "uid": "terrafirmacraft:Gravel",
+      "meta": 7,
+      "color": "#766c54"
+    },
+    {
+      "name": "Gravel",
+      "uid": "terrafirmacraft:Gravel",
+      "meta": 8,
+      "color": "#5e5b5e"
+    },
+    {
+      "name": "Gravel",
+      "uid": "terrafirmacraft:Gravel",
+      "meta": 9,
+      "color": "#6c5240"
+    },
+    {
+      "name": "Gravel",
+      "uid": "terrafirmacraft:Gravel",
+      "meta": 10,
+      "color": "#aaaaa6"
+    },
+    {
+      "name": "Gravel",
+      "uid": "terrafirmacraft:Gravel",
+      "meta": 11,
+      "color": "#807c74"
+    },
+    {
+      "name": "Gravel",
+      "uid": "terrafirmacraft:Gravel",
+      "meta": 12,
+      "color": "#3a3e40"
+    },
+    {
+      "name": "Gravel",
+      "uid": "terrafirmacraft:Gravel",
+      "meta": 13,
+      "color": "#7a7d7e"
+    },
+    {
+      "name": "Gravel",
+      "uid": "terrafirmacraft:Gravel",
+      "meta": 14,
+      "color": "#7c7c7e"
+    },
+    {
+      "name": "Gravel",
+      "uid": "terrafirmacraft:Gravel",
+      "meta": 15,
+      "color": "#9a9390"
+    },
+    {
+      "name": "Gravel",
+      "uid": "terrafirmacraft:Gravel2",
+      "meta": 0,
+      "color": "#948f85"
+    },
+    {
+      "name": "Gravel",
+      "uid": "terrafirmacraft:Gravel2",
+      "meta": 1,
+      "color": "#7a7672"
+    },
+    {
+      "name": "Gravel",
+      "uid": "terrafirmacraft:Gravel2",
+      "meta": 2,
+      "color": "#7a7f6c"
+    },
+    {
+      "name": "Gravel",
+      "uid": "terrafirmacraft:Gravel2",
+      "meta": 3,
+      "color": "#7f7d72"
+    },
+    {
+      "name": "Gravel",
+      "uid": "terrafirmacraft:Gravel2",
+      "meta": 4,
+      "color": "#aaa8a5"
+    },
+    {
+      "name": "Gray Air Balloon",
+      "uid": "ArchimedesShipsPlus:balloon",
+      "meta": 7,
+      "color": "#b0b0b0"
+    },
+    {
+      "name": "Gray Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 7,
+      "color": "#404040"
+    },
+    {
+      "name": "Gray Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 7,
+      "color": "#392a23"
+    },
+    {
+      "name": "Gray Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 7,
+      "color": "#4c4c4c",
+      "alpha": 0.4
+    },
+    {
+      "name": "Gray Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 7,
+      "color": "#4c4c4c",
+      "alpha": 0.4
+    },
+    {
+      "name": "Gray Wool",
+      "uid": "minecraft:wool",
+      "meta": 7,
+      "color": "#404040"
+    },
+    {
+      "name": "Green Air Balloon",
+      "uid": "ArchimedesShipsPlus:balloon",
+      "meta": 13,
+      "color": "#599859"
+    },
+    {
+      "name": "Green Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 13,
+      "color": "#35461b"
+    },
+    {
+      "name": "Green Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 13,
+      "color": "#4c532a"
+    },
+    {
+      "name": "Green Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 13,
+      "color": "#667f33",
+      "alpha": 0.4
+    },
+    {
+      "name": "Green Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 13,
+      "color": "#667f33",
+      "alpha": 0.4
+    },
+    {
+      "name": "Green Wool",
+      "uid": "minecraft:wool",
+      "meta": 13,
+      "color": "#35461b"
+    },
+    {
+      "name": "Grill",
+      "uid": "terrafirmacraft:Grill",
+      "meta": 0,
+      "color": "#939393"
+    },
+    {
+      "name": "HV Capacitor",
+      "uid": "ImmersiveEngineering:metalDevice",
+      "meta": 7,
+      "color": "#5d5750"
+    },
+    {
+      "name": "HV Transformer",
+      "uid": "ImmersiveEngineering:metalDevice",
+      "meta": 8,
+      "color": "#5a5755"
+    },
+    {
+      "name": "HV Wire Connector",
+      "uid": "ImmersiveEngineering:metalDevice",
+      "meta": 6,
+      "color": "#4d352a"
+    },
+    {
+      "name": "HV Wire Relay",
+      "uid": "ImmersiveEngineering:metalDevice",
+      "meta": 5,
+      "color": "#388363"
+    },
+    {
+      "name": "Hardened Clay",
+      "uid": "minecraft:hardened_clay",
+      "meta": 0,
+      "color": "#965c42"
+    },
+    {
+      "name": "Hay Bale",
+      "uid": "minecraft:hay_block",
+      "meta": 0,
+      "color": "#a88b10"
+    },
+    {
+      "name": "Heavy Engineering Block",
+      "uid": "ImmersiveEngineering:metalDecoration",
+      "meta": 5,
+      "color": "#4e4c47"
+    },
+    {
+      "name": "Hempcrete",
+      "uid": "ImmersiveEngineering:stoneDecoration",
+      "meta": 0,
+      "color": "#55544d"
+    },
+    {
+      "name": "Hempcrete Slab",
+      "uid": "ImmersiveEngineering:stoneSlab",
+      "meta": 0,
+      "color": "#55544d"
+    },
+    {
+      "name": "Hickory Barrel",
+      "uid": "terrafirmacraft:Barrel",
+      "meta": 5,
+      "color": "#321908"
+    },
+    {
+      "name": "Hickory Door",
+      "uid": "terrafirmacraft:DoorHickory",
+      "meta": 0,
+      "color": "#341c0a"
+    },
+    {
+      "name": "Hickory Fence",
+      "uid": "terrafirmacraft:Fence",
+      "meta": 5,
+      "color": "#341b0a",
+      "alpha": 0.4
+    },
+    {
+      "name": "Hickory Fence Gate",
+      "uid": "terrafirmacraft:FenceGate",
+      "meta": 5,
+      "color": "#321908",
+      "alpha": 0.4
+    },
+    {
+      "name": "Hickory Log",
+      "uid": "terrafirmacraft:WoodHoriz",
+      "meta": 5,
+      "color": "#463f34"
+    },
+    {
+      "name": "Hickory Log",
+      "uid": "terrafirmacraft:WoodVert",
+      "meta": 5,
+      "color": "#412c17"
+    },
+    {
+      "name": "Hickory Log",
+      "uid": "terrafirmacraft:log",
+      "meta": 5,
+      "color": "#412c17"
+    },
+    {
+      "name": "Hickory Loom",
+      "uid": "terrafirmacraft:Loom",
+      "meta": 5,
+      "color": "#321908"
+    },
+    {
+      "name": "Hickory Planks",
+      "uid": "terrafirmacraft:planks",
+      "meta": 5,
+      "color": "#321908"
+    },
+    {
+      "name": "Hickory Sapling",
+      "uid": "terrafirmacraft:sapling",
+      "meta": 5,
+      "color": "#2b691d"
+    },
+    {
+      "name": "Hickory Support Beam",
+      "uid": "terrafirmacraft:WoodSupportV",
+      "meta": 5,
+      "color": "#4f3112"
+    },
+    {
+      "name": "Hickory Tool Rack",
+      "uid": "terrafirmacraft:ToolRack",
+      "meta": 5,
+      "color": "#4f3112"
+    },
+    {
+      "name": "High-Voltage Wire Coil",
+      "uid": "ImmersiveEngineering:storage",
+      "meta": 10,
+      "color": "#515151"
+    },
+    {
+      "name": "Hopper",
+      "uid": "minecraft:hopper",
+      "meta": 0,
+      "color": "#454545"
+    },
+    {
+      "name": "Hopper",
+      "uid": "terrafirmacraft:Hopper",
+      "meta": 0,
+      "color": "#454545"
+    },
+    {
+      "name": "Hot Springs",
+      "uid": "terrafirmacraft:HotWaterStationary",
+      "meta": 0,
+      "color": "#ffffff",
+      "alpha": 0.3
+    },
+    {
+      "name": "Hot Springs Flowing",
+      "uid": "terrafirmacraft:HotWater",
+      "meta": 0,
+      "color": "#ffffff",
+      "alpha": 0.3
+    },
+    {
+      "name": "Houstonia",
+      "uid": "terrafirmacraft:Flowers2",
+      "meta": 3,
+      "color": "#a2bf8a"
+    },
+    {
+      "name": "Ice",
+      "uid": "minecraft:ice",
+      "meta": 0,
+      "color": "#7dadff",
+      "alpha": 0.8
+    },
+    {
+      "name": "Ice",
+      "uid": "terrafirmacraft:Ice",
+      "meta": 0,
+      "color": "#eeeff1",
+      "alpha": 0.8
+    },
+    {
+      "name": "Ice",
+      "uid": "tfccellars:Ice",
+      "meta": 0,
+      "color": "#eeeff1",
+      "alpha": 0.8
+    },
+    {
+      "name": "Ice Bunker",
+      "uid": "tfccellars:IceBunker",
+      "meta": 0,
+      "color": "#95794a"
+    },
+    {
+      "name": "Improved Windmill",
+      "uid": "ImmersiveEngineering:woodenDevice",
+      "meta": 3,
+      "color": "#542f1f"
+    },
+    {
+      "name": "Industrial Hemp",
+      "uid": "ImmersiveEngineering:hemp",
+      "meta": 0,
+      "color": "#237033"
+    },
+    {
+      "name": "Industrial Squeezer",
+      "uid": "ImmersiveEngineering:metalMultiblock",
+      "meta": 2,
+      "color": "#595858"
+    },
+    {
+      "name": "Insulating Glass",
+      "uid": "ImmersiveEngineering:stoneDevice",
+      "meta": 4,
+      "color": "#21b163"
+    },
+    {
+      "name": "Iron Bars",
+      "uid": "minecraft:iron_bars",
+      "meta": 0,
+      "color": "#6d6c6a",
+      "alpha": 0.4
+    },
+    {
+      "name": "Iron Bloom",
+      "uid": "terrafirmacraft:Bloom",
+      "meta": 0,
+      "color": "#332a26"
+    },
+    {
+      "name": "Iron Door",
+      "uid": "minecraft:iron_door",
+      "meta": 0,
+      "color": "#a3a3a3"
+    },
+    {
+      "name": "Iron Ore",
+      "uid": "minecraft:iron_ore",
+      "meta": 0,
+      "color": "#87827e"
+    },
+    {
+      "name": "Item Router",
+      "uid": "ImmersiveEngineering:metalDevice",
+      "meta": 13,
+      "color": "#514d4b"
+    },
+    {
+      "name": "Jack o\u0027Lantern",
+      "uid": "minecraft:lit_pumpkin",
+      "meta": 0,
+      "color": "#c07615"
+    },
+    {
+      "name": "Jack o\u0027Lantern",
+      "uid": "terrafirmacraft:LitPumpkin",
+      "meta": 0,
+      "color": "#c07615"
+    },
+    {
+      "name": "Jukebox",
+      "uid": "minecraft:jukebox",
+      "meta": 0,
+      "color": "#6b4937"
+    },
+    {
+      "name": "Jungle Leaves",
+      "uid": "minecraft:leaves",
+      "meta": 3,
+      "color": "#918e86"
+    },
+    {
+      "name": "Jungle Sapling",
+      "uid": "minecraft:sapling",
+      "meta": 3,
+      "color": "#305612"
+    },
+    {
+      "name": "Jungle Wood",
+      "uid": "minecraft:log",
+      "meta": 3,
+      "color": "#997649"
+    },
+    {
+      "name": "Jungle Wood Planks",
+      "uid": "minecraft:planks",
+      "meta": 3,
+      "color": "#9a6e4d"
+    },
+    {
+      "name": "Jungle Wood Slab",
+      "uid": "minecraft:wooden_slab",
+      "meta": 3,
+      "color": "#9a6e4d"
+    },
+    {
+      "name": "Jungle Wood Stairs",
+      "uid": "minecraft:jungle_stairs",
+      "meta": 0,
+      "color": "#9a6e4d"
+    },
+    {
+      "name": "Kapok Barrel",
+      "uid": "terrafirmacraft:Barrel",
+      "meta": 15,
+      "color": "#8f6983"
+    },
+    {
+      "name": "Kapok Door",
+      "uid": "terrafirmacraft:DoorKapok",
+      "meta": 0,
+      "color": "#8b677f"
+    },
+    {
+      "name": "Kapok Fence",
+      "uid": "terrafirmacraft:Fence",
+      "meta": 15,
+      "color": "#8e697e",
+      "alpha": 0.4
+    },
+    {
+      "name": "Kapok Fence Gate",
+      "uid": "terrafirmacraft:FenceGate",
+      "meta": 15,
+      "color": "#8f6983",
+      "alpha": 0.4
+    },
+    {
+      "name": "Kapok Log",
+      "uid": "terrafirmacraft:WoodHoriz2",
+      "meta": 7,
+      "color": "#57431a"
+    },
+    {
+      "name": "Kapok Log",
+      "uid": "terrafirmacraft:WoodVert",
+      "meta": 15,
+      "color": "#ae887d"
+    },
+    {
+      "name": "Kapok Log",
+      "uid": "terrafirmacraft:log",
+      "meta": 15,
+      "color": "#ae887d"
+    },
+    {
+      "name": "Kapok Loom",
+      "uid": "terrafirmacraft:Loom",
+      "meta": 15,
+      "color": "#8f6983"
+    },
+    {
+      "name": "Kapok Planks",
+      "uid": "terrafirmacraft:planks",
+      "meta": 15,
+      "color": "#8f6983"
+    },
+    {
+      "name": "Kapok Sapling",
+      "uid": "terrafirmacraft:sapling",
+      "meta": 15,
+      "color": "#305612"
+    },
+    {
+      "name": "Kapok Support Beam",
+      "uid": "terrafirmacraft:WoodSupportV",
+      "meta": 15,
+      "color": "#b68d90"
+    },
+    {
+      "name": "Kapok Tool Rack",
+      "uid": "terrafirmacraft:ToolRack",
+      "meta": 15,
+      "color": "#b68d90"
+    },
+    {
+      "name": "Kinetic Dynamo",
+      "uid": "ImmersiveEngineering:metalDevice",
+      "meta": 9,
+      "color": "#5e5d5c"
+    },
+    {
+      "name": "LV Capacitor",
+      "uid": "ImmersiveEngineering:metalDevice",
+      "meta": 1,
+      "color": "#525252"
+    },
+    {
+      "name": "LV Wire Connector",
+      "uid": "ImmersiveEngineering:metalDevice",
+      "meta": 0,
+      "color": "#84523d"
+    },
+    {
+      "name": "Ladder",
+      "uid": "minecraft:ladder",
+      "meta": 0,
+      "color": "#795f34"
+    },
+    {
+      "name": "Lantern",
+      "uid": "ImmersiveEngineering:metalDecoration",
+      "meta": 2,
+      "color": "#393939"
+    },
+    {
+      "name": "Lapis Lazuli Block",
+      "uid": "minecraft:lapis_block",
+      "meta": 0,
+      "color": "#264389"
+    },
+    {
+      "name": "Lapis Lazuli Ore",
+      "uid": "minecraft:lapis_ore",
+      "meta": 0,
+      "color": "#667086"
+    },
+    {
+      "name": "Large Fern",
+      "uid": "minecraft:double_plant",
+      "meta": 3,
+      "color": "#7d7d7d"
+    },
+    {
+      "name": "Large Speaker",
+      "uid": "betterrecords:recordspeaker.lg",
+      "meta": 0,
+      "color": "#916a40"
+    },
+    {
+      "name": "Large Vessel",
+      "uid": "terrafirmacraft:Vessel",
+      "meta": 0,
+      "color": "#8c9ab0"
+    },
+    {
+      "name": "Large Vessel",
+      "uid": "terrafirmacraft:Vessel",
+      "meta": 1,
+      "color": "#6e695e"
+    },
+    {
+      "name": "Lava",
+      "uid": "minecraft:flowing_lava",
+      "meta": 0,
+      "color": "#d1530f"
+    },
+    {
+      "name": "Lava",
+      "uid": "minecraft:lava",
+      "meta": 0,
+      "color": "#d1530f"
+    },
+    {
+      "name": "Lava",
+      "uid": "terrafirmacraft:LavaStationary",
+      "meta": 0,
+      "color": "#d1530f"
+    },
+    {
+      "name": "Lava Flowing",
+      "uid": "terrafirmacraft:Lava",
+      "meta": 0,
+      "color": "#d1530f"
+    },
+    {
+      "name": "Lazer",
+      "uid": "betterrecords:lazer",
+      "meta": 0,
+      "color": "#916a40"
+    },
+    {
+      "name": "Lazer Cluster",
+      "uid": "betterrecords:lazercluster",
+      "meta": 0,
+      "color": "#916a40"
+    },
+    {
+      "name": "Lead Lantern",
+      "uid": "DecorationsTFC:Lantern.Lead",
+      "meta": 0,
+      "color": "#454c4f"
+    },
+    {
+      "name": "Lead Ore",
+      "uid": "ImmersiveEngineering:ore",
+      "meta": 2,
+      "color": "#777778"
+    },
+    {
+      "name": "Lead Sheet Metal Block",
+      "uid": "ImmersiveEngineering:metalDecoration2",
+      "meta": 1,
+      "color": "#444759"
+    },
+    {
+      "name": "Lead Slab",
+      "uid": "ImmersiveEngineering:storageSlab",
+      "meta": 2,
+      "color": "#46495b"
+    },
+    {
+      "name": "Leather Rack",
+      "uid": "terrafirmacraft:LeatherRack",
+      "meta": 0,
+      "color": "#c69282"
+    },
+    {
+      "name": "Lever",
+      "uid": "minecraft:lever",
+      "meta": 0,
+      "color": "#6a5940"
+    },
+    {
+      "name": "Light Blue Air Balloon",
+      "uid": "ArchimedesShipsPlus:balloon",
+      "meta": 3,
+      "color": "#96aef2"
+    },
+    {
+      "name": "Light Blue Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 3,
+      "color": "#6a8ac9"
+    },
+    {
+      "name": "Light Blue Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 3,
+      "color": "#716c89"
+    },
+    {
+      "name": "Light Blue Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 3,
+      "color": "#6699d8",
+      "alpha": 0.4
+    },
+    {
+      "name": "Light Blue Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 3,
+      "color": "#6699d8",
+      "alpha": 0.4
+    },
+    {
+      "name": "Light Blue Wool",
+      "uid": "minecraft:wool",
+      "meta": 3,
+      "color": "#6a8ac9"
+    },
+    {
+      "name": "Light Engineering Block",
+      "uid": "ImmersiveEngineering:metalDecoration",
+      "meta": 7,
+      "color": "#71685c"
+    },
+    {
+      "name": "Light Gray Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 8,
+      "color": "#9aa1a1"
+    },
+    {
+      "name": "Light Gray Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 8,
+      "color": "#876a61"
+    },
+    {
+      "name": "Light Gray Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 8,
+      "color": "#999999",
+      "alpha": 0.4
+    },
+    {
+      "name": "Light Gray Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 8,
+      "color": "#999999",
+      "alpha": 0.4
+    },
+    {
+      "name": "Light Gray Wool",
+      "uid": "minecraft:wool",
+      "meta": 8,
+      "color": "#9aa1a1"
+    },
+    {
+      "name": "Lightning Rod Base",
+      "uid": "ImmersiveEngineering:metalMultiblock",
+      "meta": 0,
+      "color": "#7a695c"
+    },
+    {
+      "name": "Lilac",
+      "uid": "minecraft:double_plant",
+      "meta": 1,
+      "color": "#94948c"
+    },
+    {
+      "name": "Lily Pad",
+      "uid": "minecraft:waterlily",
+      "meta": 0,
+      "color": "#767676"
+    },
+    {
+      "name": "Lilypad",
+      "uid": "terrafirmacraft:LilyPad",
+      "meta": 0,
+      "color": "#767676"
+    },
+    {
+      "name": "Lime Air Balloon",
+      "uid": "ArchimedesShipsPlus:balloon",
+      "meta": 5,
+      "color": "#c4f296"
+    },
+    {
+      "name": "Lime Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 5,
+      "color": "#41ae38"
+    },
+    {
+      "name": "Lime Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 5,
+      "color": "#677534"
+    },
+    {
+      "name": "Lime Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 5,
+      "color": "#7fcc19",
+      "alpha": 0.4
+    },
+    {
+      "name": "Lime Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 5,
+      "color": "#7fcc19",
+      "alpha": 0.4
+    },
+    {
+      "name": "Lime Wool",
+      "uid": "minecraft:wool",
+      "meta": 5,
+      "color": "#41ae38"
+    },
+    {
+      "name": "Limestone",
+      "uid": "terrafirmacraft:StoneSed",
+      "meta": 3,
+      "color": "#a9a28e"
+    },
+    {
+      "name": "Limestone Brick Wall",
+      "uid": "terrafirmacraft:WallBrickSed",
+      "meta": 3,
+      "color": "#b2a990"
+    },
+    {
+      "name": "Limestone Bricks",
+      "uid": "terrafirmacraft:StoneSedBrick",
+      "meta": 3,
+      "color": "#b2a990"
+    },
+    {
+      "name": "Limestone Cobblestone",
+      "uid": "terrafirmacraft:StoneSedCobble",
+      "meta": 3,
+      "color": "#a8a08b"
+    },
+    {
+      "name": "Limestone Cobblestone Wall",
+      "uid": "terrafirmacraft:WallCobbleSed",
+      "meta": 3,
+      "color": "#a8a08b"
+    },
+    {
+      "name": "Limestone Mud Brick (Dry)",
+      "uid": "DecorationsTFC:MudBrickRaw.Limestone",
+      "meta": 1,
+      "color": "#b2a88f"
+    },
+    {
+      "name": "Limestone Mud Brick (Wet)",
+      "uid": "DecorationsTFC:MudBrickRaw.Limestone",
+      "meta": 0,
+      "color": "#b2a88f"
+    },
+    {
+      "name": "Limestone Mud Bricks",
+      "uid": "DecorationsTFC:MudBricks",
+      "meta": 6,
+      "color": "#77674c"
+    },
+    {
+      "name": "Limestone Smooth Wall",
+      "uid": "terrafirmacraft:WallSmoothSed",
+      "meta": 3,
+      "color": "#b4aa91"
+    },
+    {
+      "name": "Limestone Wall",
+      "uid": "terrafirmacraft:WallRawSed",
+      "meta": 3,
+      "color": "#a9a28e"
+    },
+    {
+      "name": "Log Pile",
+      "uid": "terrafirmacraft:LogPile",
+      "meta": 0,
+      "color": "#54442b"
+    },
+    {
+      "name": "Lumber",
+      "uid": "terrafirmacraft:WoodConstruct",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "MV Capacitor",
+      "uid": "ImmersiveEngineering:metalDevice",
+      "meta": 3,
+      "color": "#5d5250"
+    },
+    {
+      "name": "MV Wire Connector",
+      "uid": "ImmersiveEngineering:metalDevice",
+      "meta": 2,
+      "color": "#4d352a"
+    },
+    {
+      "name": "Magenta Air Balloon",
+      "uid": "ArchimedesShipsPlus:balloon",
+      "meta": 2,
+      "color": "#ea96f2"
+    },
+    {
+      "name": "Magenta Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 2,
+      "color": "#b350bc"
+    },
+    {
+      "name": "Magenta Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 2,
+      "color": "#95586c"
+    },
+    {
+      "name": "Magenta Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 2,
+      "color": "#b24cd8",
+      "alpha": 0.4
+    },
+    {
+      "name": "Magenta Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 2,
+      "color": "#b24cd8",
+      "alpha": 0.4
+    },
+    {
+      "name": "Magenta Wool",
+      "uid": "minecraft:wool",
+      "meta": 2,
+      "color": "#b350bc"
+    },
+    {
+      "name": "Maple Barrel",
+      "uid": "terrafirmacraft:Barrel",
+      "meta": 6,
+      "color": "#986127"
+    },
+    {
+      "name": "Maple Door",
+      "uid": "terrafirmacraft:DoorMaple",
+      "meta": 0,
+      "color": "#996429"
+    },
+    {
+      "name": "Maple Fence",
+      "uid": "terrafirmacraft:Fence",
+      "meta": 6,
+      "color": "#956129",
+      "alpha": 0.4
+    },
+    {
+      "name": "Maple Fence Gate",
+      "uid": "terrafirmacraft:FenceGate",
+      "meta": 6,
+      "color": "#986127",
+      "alpha": 0.4
+    },
+    {
+      "name": "Maple Log",
+      "uid": "terrafirmacraft:WoodHoriz",
+      "meta": 6,
+      "color": "#4c473f"
+    },
+    {
+      "name": "Maple Log",
+      "uid": "terrafirmacraft:WoodVert",
+      "meta": 6,
+      "color": "#a27c3f"
+    },
+    {
+      "name": "Maple Log",
+      "uid": "terrafirmacraft:log",
+      "meta": 6,
+      "color": "#a27c3f"
+    },
+    {
+      "name": "Maple Loom",
+      "uid": "terrafirmacraft:Loom",
+      "meta": 6,
+      "color": "#986127"
+    },
+    {
+      "name": "Maple Planks",
+      "uid": "terrafirmacraft:planks",
+      "meta": 6,
+      "color": "#986127"
+    },
+    {
+      "name": "Maple Sapling",
+      "uid": "terrafirmacraft:sapling",
+      "meta": 6,
+      "color": "#4e7445"
+    },
+    {
+      "name": "Maple Support Beam",
+      "uid": "terrafirmacraft:WoodSupportV",
+      "meta": 6,
+      "color": "#c48f42"
+    },
+    {
+      "name": "Maple Tool Rack",
+      "uid": "terrafirmacraft:ToolRack",
+      "meta": 6,
+      "color": "#c48f42"
+    },
+    {
+      "name": "Marble",
+      "uid": "terrafirmacraft:StoneMM",
+      "meta": 5,
+      "color": "#afaba9"
+    },
+    {
+      "name": "Marble Brick Wall",
+      "uid": "terrafirmacraft:WallBrickMM",
+      "meta": 5,
+      "color": "#b9b5b1"
+    },
+    {
+      "name": "Marble Bricks",
+      "uid": "terrafirmacraft:StoneMMBrick",
+      "meta": 5,
+      "color": "#b9b5b1"
+    },
+    {
+      "name": "Marble Cobblestone",
+      "uid": "terrafirmacraft:StoneMMCobble",
+      "meta": 5,
+      "color": "#aeaaa8"
+    },
+    {
+      "name": "Marble Cobblestone Wall",
+      "uid": "terrafirmacraft:WallCobbleMM",
+      "meta": 5,
+      "color": "#aeaaa8"
+    },
+    {
+      "name": "Marble Mud Brick (Dry)",
+      "uid": "DecorationsTFC:MudBrickRaw.Marble",
+      "meta": 1,
+      "color": "#b8b4b1"
+    },
+    {
+      "name": "Marble Mud Brick (Wet)",
+      "uid": "DecorationsTFC:MudBrickRaw.Marble",
+      "meta": 0,
+      "color": "#b8b4b1"
+    },
+    {
+      "name": "Marble Mud Bricks",
+      "uid": "DecorationsTFC:MudBricks2",
+      "meta": 4,
+      "color": "#7b6e5e"
+    },
+    {
+      "name": "Marble Smooth Wall",
+      "uid": "terrafirmacraft:WallSmoothMM",
+      "meta": 5,
+      "color": "#bab6b3"
+    },
+    {
+      "name": "Marble Wall",
+      "uid": "terrafirmacraft:WallRawMM",
+      "meta": 5,
+      "color": "#afaba9"
+    },
+    {
+      "name": "Meads Milkweed",
+      "uid": "terrafirmacraft:Flowers",
+      "meta": 2,
+      "color": "#82993a"
+    },
+    {
+      "name": "Measurement Gauges",
+      "uid": "ArchimedesShipsPlus:gauge",
+      "meta": 0,
+      "color": "#b9b1ab"
+    },
+    {
+      "name": "Measurement Gauges",
+      "uid": "ArchimedesShipsPlus:gauge",
+      "meta": 1,
+      "color": "#b9b1ab"
+    },
+    {
+      "name": "Medium Speaker",
+      "uid": "betterrecords:recordspeaker.md",
+      "meta": 0,
+      "color": "#916a40"
+    },
+    {
+      "name": "Melon",
+      "uid": "minecraft:melon_block",
+      "meta": 0,
+      "color": "#979924"
+    },
+    {
+      "name": "Metal Barrel",
+      "uid": "ImmersiveEngineering:metalDevice2",
+      "meta": 7,
+      "color": "#8b8b8b"
+    },
+    {
+      "name": "Metal Sheet",
+      "uid": "terrafirmacraft:MetalSheet",
+      "meta": 0,
+      "color": "#486a72"
+    },
+    {
+      "name": "Molten Ore",
+      "uid": "terrafirmacraft:Molten",
+      "meta": 0,
+      "color": "#3f342f"
+    },
+    {
+      "name": "Monster Spawner",
+      "uid": "minecraft:mob_spawner",
+      "meta": 0,
+      "color": "#1a2731"
+    },
+    {
+      "name": "Moss",
+      "uid": "terrafirmacraft:Moss",
+      "meta": 0,
+      "color": "#326904"
+    },
+    {
+      "name": "Moss Stone",
+      "uid": "minecraft:mossy_cobblestone",
+      "meta": 0,
+      "color": "#677967"
+    },
+    {
+      "name": "Mossy Cobblestone Wall",
+      "uid": "minecraft:cobblestone_wall",
+      "meta": 1,
+      "color": "#677967"
+    },
+    {
+      "name": "Mossy Stone Bricks",
+      "uid": "minecraft:stonebrick",
+      "meta": 1,
+      "color": "#72776a"
+    },
+    {
+      "name": "Mushroom",
+      "uid": "minecraft:brown_mushroom",
+      "meta": 0,
+      "color": "#8a6953"
+    },
+    {
+      "name": "Mushroom",
+      "uid": "minecraft:brown_mushroom_block",
+      "meta": 0,
+      "color": "#8d6a53"
+    },
+    {
+      "name": "Mushroom",
+      "uid": "minecraft:red_mushroom",
+      "meta": 0,
+      "color": "#c33538"
+    },
+    {
+      "name": "Mushroom",
+      "uid": "minecraft:red_mushroom_block",
+      "meta": 0,
+      "color": "#b62524"
+    },
+    {
+      "name": "Mycelium",
+      "uid": "minecraft:mycelium",
+      "meta": 0,
+      "color": "#6f6369"
+    },
+    {
+      "name": "Nasturtium",
+      "uid": "terrafirmacraft:Flowers",
+      "meta": 1,
+      "color": "#8f8409"
+    },
+    {
+      "name": "Nether Brick",
+      "uid": "minecraft:nether_brick",
+      "meta": 0,
+      "color": "#2c161a"
+    },
+    {
+      "name": "Nether Brick Fence",
+      "uid": "minecraft:nether_brick_fence",
+      "meta": 0,
+      "color": "#2c161a",
+      "alpha": 0.4
+    },
+    {
+      "name": "Nether Brick Slab",
+      "uid": "minecraft:stone_slab",
+      "meta": 6,
+      "color": "#2c161a"
+    },
+    {
+      "name": "Nether Brick Stairs",
+      "uid": "minecraft:nether_brick_stairs",
+      "meta": 0,
+      "color": "#2c161a"
+    },
+    {
+      "name": "Nether Quartz Ore",
+      "uid": "minecraft:quartz_ore",
+      "meta": 0,
+      "color": "#7d544f"
+    },
+    {
+      "name": "Netherrack",
+      "uid": "minecraft:netherrack",
+      "meta": 0,
+      "color": "#6f3634"
+    },
+    {
+      "name": "Nickel Ore",
+      "uid": "ImmersiveEngineering:ore",
+      "meta": 4,
+      "color": "#7c7c7c"
+    },
+    {
+      "name": "Nickel Slab",
+      "uid": "ImmersiveEngineering:storageSlab",
+      "meta": 4,
+      "color": "#949a8a"
+    },
+    {
+      "name": "Note Block",
+      "uid": "minecraft:noteblock",
+      "meta": 0,
+      "color": "#644332"
+    },
+    {
+      "name": "Oak Barrel",
+      "uid": "terrafirmacraft:Barrel",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Oak Chest",
+      "uid": "terrafirmacraft:Chest TFC",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Oak Chest",
+      "uid": "terrafirmacraft:Chest TFC",
+      "meta": 1,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Oak Chest",
+      "uid": "terrafirmacraft:Chest TFC",
+      "meta": 2,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Oak Chest",
+      "uid": "terrafirmacraft:Chest TFC",
+      "meta": 3,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Oak Chest",
+      "uid": "terrafirmacraft:Chest TFC",
+      "meta": 4,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Oak Chest",
+      "uid": "terrafirmacraft:Chest TFC",
+      "meta": 5,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Oak Chest",
+      "uid": "terrafirmacraft:Chest TFC",
+      "meta": 6,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Oak Chest",
+      "uid": "terrafirmacraft:Chest TFC",
+      "meta": 7,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Oak Chest",
+      "uid": "terrafirmacraft:Chest TFC",
+      "meta": 8,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Oak Chest",
+      "uid": "terrafirmacraft:Chest TFC",
+      "meta": 9,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Oak Chest",
+      "uid": "terrafirmacraft:Chest TFC",
+      "meta": 10,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Oak Chest",
+      "uid": "terrafirmacraft:Chest TFC",
+      "meta": 11,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Oak Chest",
+      "uid": "terrafirmacraft:Chest TFC",
+      "meta": 12,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Oak Chest",
+      "uid": "terrafirmacraft:Chest TFC",
+      "meta": 13,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Oak Chest",
+      "uid": "terrafirmacraft:Chest TFC",
+      "meta": 14,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Oak Chest",
+      "uid": "terrafirmacraft:Chest TFC",
+      "meta": 15,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Oak Chest",
+      "uid": "terrafirmacraft:Chest TFC",
+      "meta": 16,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Oak Door",
+      "uid": "terrafirmacraft:DoorOak",
+      "meta": 0,
+      "color": "#97794b"
+    },
+    {
+      "name": "Oak Fence",
+      "uid": "terrafirmacraft:Fence",
+      "meta": 0,
+      "color": "#9a7d4d",
+      "alpha": 0.4
+    },
+    {
+      "name": "Oak Fence Gate",
+      "uid": "terrafirmacraft:FenceGate",
+      "meta": 0,
+      "color": "#9c7f4e",
+      "alpha": 0.4
+    },
+    {
+      "name": "Oak Leaves",
+      "uid": "minecraft:leaves",
+      "meta": 0,
+      "color": "#878787"
+    },
+    {
+      "name": "Oak Log",
+      "uid": "terrafirmacraft:WoodHoriz",
+      "meta": 0,
+      "color": "#665131"
+    },
+    {
+      "name": "Oak Log",
+      "uid": "terrafirmacraft:WoodVert",
+      "meta": 0,
+      "color": "#9a7d4d"
+    },
+    {
+      "name": "Oak Log",
+      "uid": "terrafirmacraft:log",
+      "meta": 0,
+      "color": "#9a7d4d"
+    },
+    {
+      "name": "Oak Loom",
+      "uid": "terrafirmacraft:Loom",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Oak Planks",
+      "uid": "terrafirmacraft:planks",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Oak Sapling",
+      "uid": "minecraft:sapling",
+      "meta": 0,
+      "color": "#476625"
+    },
+    {
+      "name": "Oak Sapling",
+      "uid": "terrafirmacraft:sapling",
+      "meta": 0,
+      "color": "#436e12"
+    },
+    {
+      "name": "Oak Support Beam",
+      "uid": "terrafirmacraft:WoodSupportV",
+      "meta": 0,
+      "color": "#a78a52"
+    },
+    {
+      "name": "Oak Tool Rack",
+      "uid": "terrafirmacraft:ToolRack",
+      "meta": 0,
+      "color": "#a78a52"
+    },
+    {
+      "name": "Oak Wood",
+      "uid": "minecraft:log",
+      "meta": 0,
+      "color": "#9a7d4d"
+    },
+    {
+      "name": "Oak Wood Planks",
+      "uid": "minecraft:planks",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Oak Wood Slab",
+      "uid": "minecraft:wooden_slab",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Oak Wood Stairs",
+      "uid": "minecraft:oak_stairs",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Obsidian",
+      "uid": "minecraft:obsidian",
+      "meta": 0,
+      "color": "#14121d"
+    },
+    {
+      "name": "Orange Air Balloon",
+      "uid": "ArchimedesShipsPlus:balloon",
+      "meta": 1,
+      "color": "#f2b87f"
+    },
+    {
+      "name": "Orange Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 1,
+      "color": "#db7d3e"
+    },
+    {
+      "name": "Orange Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 1,
+      "color": "#a15325"
+    },
+    {
+      "name": "Orange Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 1,
+      "color": "#d87f33",
+      "alpha": 0.4
+    },
+    {
+      "name": "Orange Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 1,
+      "color": "#d87f33",
+      "alpha": 0.4
+    },
+    {
+      "name": "Orange Tulip",
+      "uid": "minecraft:red_flower",
+      "meta": 5,
+      "color": "#a3581a"
+    },
+    {
+      "name": "Orange Tulip",
+      "uid": "terrafirmacraft:Flowers2",
+      "meta": 5,
+      "color": "#5f8620"
+    },
+    {
+      "name": "Orange Wool",
+      "uid": "minecraft:wool",
+      "meta": 1,
+      "color": "#db7d3e"
+    },
+    {
+      "name": "Ore",
+      "uid": "terrafirmacraft:Ore1",
+      "meta": 0,
+      "color": "#9f654c"
+    },
+    {
+      "name": "Ore",
+      "uid": "terrafirmacraft:Ore2",
+      "meta": 0,
+      "color": "#d58d79"
+    },
+    {
+      "name": "Ore",
+      "uid": "terrafirmacraft:Ore3",
+      "meta": 0,
+      "color": "#a8a9a8"
+    },
+    {
+      "name": "Ore Cooker",
+      "uid": "tfcudarymod:tile.Ore Cooker",
+      "meta": 0,
+      "color": "#322c1f"
+    },
+    {
+      "name": "Oxeye Daisy",
+      "uid": "minecraft:red_flower",
+      "meta": 8,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Packed Ice",
+      "uid": "minecraft:packed_ice",
+      "meta": 0,
+      "color": "#a5c2f5",
+      "alpha": 0.8
+    },
+    {
+      "name": "Passenger Seat",
+      "uid": "ArchimedesShipsPlus:seat",
+      "meta": 0,
+      "color": "#812f29"
+    },
+    {
+      "name": "Peat",
+      "uid": "terrafirmacraft:Peat",
+      "meta": 0,
+      "color": "#1e1914"
+    },
+    {
+      "name": "Peat Grass",
+      "uid": "terrafirmacraft:PeatGrass",
+      "meta": 0,
+      "color": "#939393"
+    },
+    {
+      "name": "Peony",
+      "uid": "minecraft:double_plant",
+      "meta": 5,
+      "color": "#85868e"
+    },
+    {
+      "name": "Phyllite",
+      "uid": "terrafirmacraft:StoneMM",
+      "meta": 2,
+      "color": "#7a7470"
+    },
+    {
+      "name": "Phyllite Brick Wall",
+      "uid": "terrafirmacraft:WallBrickMM",
+      "meta": 2,
+      "color": "#766e6a"
+    },
+    {
+      "name": "Phyllite Bricks",
+      "uid": "terrafirmacraft:StoneMMBrick",
+      "meta": 2,
+      "color": "#766e6a"
+    },
+    {
+      "name": "Phyllite Cobblestone",
+      "uid": "terrafirmacraft:StoneMMCobble",
+      "meta": 2,
+      "color": "#756e6a"
+    },
+    {
+      "name": "Phyllite Cobblestone Wall",
+      "uid": "terrafirmacraft:WallCobbleMM",
+      "meta": 2,
+      "color": "#756e6a"
+    },
+    {
+      "name": "Phyllite Mud Brick (Dry)",
+      "uid": "DecorationsTFC:MudBrickRaw.Phyllite",
+      "meta": 1,
+      "color": "#756d68"
+    },
+    {
+      "name": "Phyllite Mud Brick (Wet)",
+      "uid": "DecorationsTFC:MudBrickRaw.Phyllite",
+      "meta": 0,
+      "color": "#756d68"
+    },
+    {
+      "name": "Phyllite Mud Bricks",
+      "uid": "DecorationsTFC:MudBricks2",
+      "meta": 1,
+      "color": "#4e4338"
+    },
+    {
+      "name": "Phyllite Smooth Wall",
+      "uid": "terrafirmacraft:WallSmoothMM",
+      "meta": 2,
+      "color": "#776f6a"
+    },
+    {
+      "name": "Phyllite Wall",
+      "uid": "terrafirmacraft:WallRawMM",
+      "meta": 2,
+      "color": "#7a7470"
+    },
+    {
+      "name": "Pillar Quartz Block",
+      "uid": "minecraft:quartz_block",
+      "meta": 2,
+      "color": "#e8e5dd"
+    },
+    {
+      "name": "Pine Barrel",
+      "uid": "terrafirmacraft:Barrel",
+      "meta": 8,
+      "color": "#bfab8a"
+    },
+    {
+      "name": "Pine Door",
+      "uid": "terrafirmacraft:DoorPine",
+      "meta": 0,
+      "color": "#bba787"
+    },
+    {
+      "name": "Pine Fence",
+      "uid": "terrafirmacraft:Fence",
+      "meta": 8,
+      "color": "#b9a585",
+      "alpha": 0.4
+    },
+    {
+      "name": "Pine Fence Gate",
+      "uid": "terrafirmacraft:FenceGate",
+      "meta": 8,
+      "color": "#bfab8a",
+      "alpha": 0.4
+    },
+    {
+      "name": "Pine Log",
+      "uid": "terrafirmacraft:WoodHoriz2",
+      "meta": 0,
+      "color": "#2d1c0c"
+    },
+    {
+      "name": "Pine Log",
+      "uid": "terrafirmacraft:WoodVert",
+      "meta": 8,
+      "color": "#b19f7d"
+    },
+    {
+      "name": "Pine Log",
+      "uid": "terrafirmacraft:log",
+      "meta": 8,
+      "color": "#b19f7d"
+    },
+    {
+      "name": "Pine Loom",
+      "uid": "terrafirmacraft:Loom",
+      "meta": 8,
+      "color": "#bfab8a"
+    },
+    {
+      "name": "Pine Planks",
+      "uid": "terrafirmacraft:planks",
+      "meta": 8,
+      "color": "#bfab8a"
+    },
+    {
+      "name": "Pine Sapling",
+      "uid": "terrafirmacraft:sapling",
+      "meta": 8,
+      "color": "#333a21"
+    },
+    {
+      "name": "Pine Support Beam",
+      "uid": "terrafirmacraft:WoodSupportV",
+      "meta": 8,
+      "color": "#cfbd97"
+    },
+    {
+      "name": "Pine Tool Rack",
+      "uid": "terrafirmacraft:ToolRack",
+      "meta": 8,
+      "color": "#cfbd97"
+    },
+    {
+      "name": "Pink Air Balloon",
+      "uid": "ArchimedesShipsPlus:balloon",
+      "meta": 6,
+      "color": "#f2b2b2"
+    },
+    {
+      "name": "Pink Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 6,
+      "color": "#d08499"
+    },
+    {
+      "name": "Pink Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 6,
+      "color": "#a14e4e"
+    },
+    {
+      "name": "Pink Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 6,
+      "color": "#f27fa5",
+      "alpha": 0.4
+    },
+    {
+      "name": "Pink Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 6,
+      "color": "#f27fa5",
+      "alpha": 0.4
+    },
+    {
+      "name": "Pink Tulip",
+      "uid": "minecraft:red_flower",
+      "meta": 7,
+      "color": "#b09ab0"
+    },
+    {
+      "name": "Pink Tulip",
+      "uid": "terrafirmacraft:Flowers2",
+      "meta": 7,
+      "color": "#659649"
+    },
+    {
+      "name": "Pink Wool",
+      "uid": "minecraft:wool",
+      "meta": 6,
+      "color": "#d08499"
+    },
+    {
+      "name": "Piston",
+      "uid": "minecraft:piston",
+      "meta": 0,
+      "color": "#606060"
+    },
+    {
+      "name": "Platinum Lantern",
+      "uid": "DecorationsTFC:Lantern.Platinum",
+      "meta": 0,
+      "color": "#a5b9d0"
+    },
+    {
+      "name": "Poppy",
+      "uid": "minecraft:red_flower",
+      "meta": 0,
+      "color": "#980406"
+    },
+    {
+      "name": "Poppy",
+      "uid": "terrafirmacraft:Flowers2",
+      "meta": 0,
+      "color": "#643904"
+    },
+    {
+      "name": "Portal",
+      "uid": "minecraft:portal",
+      "meta": 0,
+      "color": "#560abe"
+    },
+    {
+      "name": "Potatoes",
+      "uid": "minecraft:potatoes",
+      "meta": 0,
+      "color": "#01ab10"
+    },
+    {
+      "name": "Pottery",
+      "uid": "terrafirmacraft:ClayPottery",
+      "meta": 0,
+      "color": "#bf9e55",
+      "alpha": 0.4
+    },
+    {
+      "name": "Powered Lantern",
+      "uid": "ImmersiveEngineering:metalDevice2",
+      "meta": 3,
+      "color": "#443b2f"
+    },
+    {
+      "name": "Powered Rail",
+      "uid": "minecraft:golden_rail",
+      "meta": 0,
+      "color": "#846c48"
+    },
+    {
+      "name": "Pressure Plate",
+      "uid": "minecraft:stone_pressure_plate",
+      "meta": 0,
+      "color": "#7d7d7d"
+    },
+    {
+      "name": "Pressure Plate",
+      "uid": "minecraft:wooden_pressure_plate",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Protection Meter",
+      "uid": "terrafirmacraft:SpawnMeter",
+      "meta": 0,
+      "color": "#a7a7a7"
+    },
+    {
+      "name": "Pumpkin",
+      "uid": "minecraft:pumpkin",
+      "meta": 0,
+      "color": "#c07615"
+    },
+    {
+      "name": "Pumpkin",
+      "uid": "terrafirmacraft:Pumpkin",
+      "meta": 0,
+      "color": "#c07615"
+    },
+    {
+      "name": "Purple Air Balloon",
+      "uid": "ArchimedesShipsPlus:balloon",
+      "meta": 10,
+      "color": "#b491f2"
+    },
+    {
+      "name": "Purple Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 10,
+      "color": "#7e3db5"
+    },
+    {
+      "name": "Purple Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 10,
+      "color": "#764656"
+    },
+    {
+      "name": "Purple Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 10,
+      "color": "#7f3fb2",
+      "alpha": 0.4
+    },
+    {
+      "name": "Purple Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 10,
+      "color": "#7f3fb2",
+      "alpha": 0.4
+    },
+    {
+      "name": "Purple Wool",
+      "uid": "minecraft:wool",
+      "meta": 10,
+      "color": "#7e3db5"
+    },
+    {
+      "name": "Quartz Slab",
+      "uid": "minecraft:stone_slab",
+      "meta": 7,
+      "color": "#ece9e2"
+    },
+    {
+      "name": "Quartz Stairs",
+      "uid": "minecraft:quartz_stairs",
+      "meta": 0,
+      "color": "#ece9e2"
+    },
+    {
+      "name": "Quartzite",
+      "uid": "terrafirmacraft:StoneMM",
+      "meta": 0,
+      "color": "#9f9795"
+    },
+    {
+      "name": "Quartzite Brick Wall",
+      "uid": "terrafirmacraft:WallBrickMM",
+      "meta": 0,
+      "color": "#a59b98"
+    },
+    {
+      "name": "Quartzite Bricks",
+      "uid": "terrafirmacraft:StoneMMBrick",
+      "meta": 0,
+      "color": "#a59b98"
+    },
+    {
+      "name": "Quartzite Cobblestone",
+      "uid": "terrafirmacraft:StoneMMCobble",
+      "meta": 0,
+      "color": "#9d9492"
+    },
+    {
+      "name": "Quartzite Cobblestone Wall",
+      "uid": "terrafirmacraft:WallCobbleMM",
+      "meta": 0,
+      "color": "#9d9492"
+    },
+    {
+      "name": "Quartzite Mud Brick (Dry)",
+      "uid": "DecorationsTFC:MudBrickRaw.Quartzite",
+      "meta": 1,
+      "color": "#a49997"
+    },
+    {
+      "name": "Quartzite Mud Brick (Wet)",
+      "uid": "DecorationsTFC:MudBrickRaw.Quartzite",
+      "meta": 0,
+      "color": "#a49997"
+    },
+    {
+      "name": "Quartzite Mud Bricks",
+      "uid": "DecorationsTFC:MudBricks",
+      "meta": 15,
+      "color": "#6e5e51"
+    },
+    {
+      "name": "Quartzite Smooth Wall",
+      "uid": "terrafirmacraft:WallSmoothMM",
+      "meta": 0,
+      "color": "#a69c99"
+    },
+    {
+      "name": "Quartzite Wall",
+      "uid": "terrafirmacraft:WallRawMM",
+      "meta": 0,
+      "color": "#9f9795"
+    },
+    {
+      "name": "Quern Base",
+      "uid": "terrafirmacraft:Quern",
+      "meta": 0,
+      "color": "#a0a0a0"
+    },
+    {
+      "name": "Radiator Block",
+      "uid": "ImmersiveEngineering:metalDecoration",
+      "meta": 4,
+      "color": "#323232"
+    },
+    {
+      "name": "Radio",
+      "uid": "betterrecords:shoutcastradio",
+      "meta": 0,
+      "color": "#916a40"
+    },
+    {
+      "name": "Rail",
+      "uid": "minecraft:rail",
+      "meta": 0,
+      "color": "#796c58"
+    },
+    {
+      "name": "Raspberry Bush",
+      "uid": "terrafirmacraft:BerryBush",
+      "meta": 2,
+      "color": "#65721d"
+    },
+    {
+      "name": "Record Etcher",
+      "uid": "betterrecords:recordetcher",
+      "meta": 0,
+      "color": "#916a40"
+    },
+    {
+      "name": "Record Player",
+      "uid": "betterrecords:recordplayer",
+      "meta": 0,
+      "color": "#916a40"
+    },
+    {
+      "name": "Red Air Balloon",
+      "uid": "ArchimedesShipsPlus:balloon",
+      "meta": 14,
+      "color": "#f29991"
+    },
+    {
+      "name": "Red Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 14,
+      "color": "#963430"
+    },
+    {
+      "name": "Red Mushroom",
+      "uid": "terrafirmacraft:Fungi",
+      "meta": 1,
+      "color": "#c33538"
+    },
+    {
+      "name": "Red Sand",
+      "uid": "minecraft:sand",
+      "meta": 1,
+      "color": "#a95821"
+    },
+    {
+      "name": "Red Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 14,
+      "color": "#8f3d2e"
+    },
+    {
+      "name": "Red Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 14,
+      "color": "#993333",
+      "alpha": 0.4
+    },
+    {
+      "name": "Red Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 14,
+      "color": "#993333",
+      "alpha": 0.4
+    },
+    {
+      "name": "Red Steel Anvil",
+      "uid": "terrafirmacraft:Anvil",
+      "meta": 7,
+      "color": "#3d0808"
+    },
+    {
+      "name": "Red Tulip",
+      "uid": "minecraft:red_flower",
+      "meta": 4,
+      "color": "#980406"
+    },
+    {
+      "name": "Red Tulip",
+      "uid": "terrafirmacraft:Flowers2",
+      "meta": 4,
+      "color": "#678726"
+    },
+    {
+      "name": "Red Wool",
+      "uid": "minecraft:wool",
+      "meta": 14,
+      "color": "#963430"
+    },
+    {
+      "name": "Redstone",
+      "uid": "minecraft:lit_redstone_ore",
+      "meta": 0,
+      "color": "#846b6b"
+    },
+    {
+      "name": "Redstone",
+      "uid": "minecraft:redstone_wire",
+      "meta": 0,
+      "color": "#efefef"
+    },
+    {
+      "name": "Redstone Breaker",
+      "uid": "ImmersiveEngineering:metalDevice2",
+      "meta": 9,
+      "color": "#4f4845"
+    },
+    {
+      "name": "Redstone Comparator",
+      "uid": "minecraft:powered_comparator",
+      "meta": 0,
+      "color": "#a59594"
+    },
+    {
+      "name": "Redstone Comparator",
+      "uid": "minecraft:unpowered_comparator",
+      "meta": 0,
+      "color": "#9c9695"
+    },
+    {
+      "name": "Redstone Lamp",
+      "uid": "minecraft:lit_redstone_lamp",
+      "meta": 0,
+      "color": "#775937"
+    },
+    {
+      "name": "Redstone Lamp",
+      "uid": "minecraft:redstone_lamp",
+      "meta": 0,
+      "color": "#462b1a"
+    },
+    {
+      "name": "Redstone Ore",
+      "uid": "minecraft:redstone_ore",
+      "meta": 0,
+      "color": "#846b6b"
+    },
+    {
+      "name": "Redstone Repeater",
+      "uid": "minecraft:powered_repeater",
+      "meta": 0,
+      "color": "#a09393"
+    },
+    {
+      "name": "Redstone Repeater",
+      "uid": "minecraft:unpowered_repeater",
+      "meta": 0,
+      "color": "#979393"
+    },
+    {
+      "name": "Redstone Torch",
+      "uid": "minecraft:redstone_torch",
+      "meta": 0,
+      "color": "#a74b29"
+    },
+    {
+      "name": "Redstone Torch",
+      "uid": "minecraft:unlit_redstone_torch",
+      "meta": 0,
+      "color": "#5d3e26"
+    },
+    {
+      "name": "Reeds",
+      "uid": "terrafirmacraft:Reeds",
+      "meta": 0,
+      "color": "#94c065"
+    },
+    {
+      "name": "Reinforced Blast Brick",
+      "uid": "ImmersiveEngineering:stoneDecoration",
+      "meta": 6,
+      "color": "#4a3832"
+    },
+    {
+      "name": "Rhyolite",
+      "uid": "terrafirmacraft:StoneIgEx",
+      "meta": 0,
+      "color": "#8a867e"
+    },
+    {
+      "name": "Rhyolite Brick Wall",
+      "uid": "terrafirmacraft:WallBrickIgEx",
+      "meta": 0,
+      "color": "#8a857c"
+    },
+    {
+      "name": "Rhyolite Bricks",
+      "uid": "terrafirmacraft:StoneIgExBrick",
+      "meta": 0,
+      "color": "#8a857c"
+    },
+    {
+      "name": "Rhyolite Cobblestone",
+      "uid": "terrafirmacraft:StoneIgExCobble",
+      "meta": 0,
+      "color": "#86827a"
+    },
+    {
+      "name": "Rhyolite Cobblestone Wall",
+      "uid": "terrafirmacraft:WallCobbleIgEx",
+      "meta": 0,
+      "color": "#86827a"
+    },
+    {
+      "name": "Rhyolite Mud Brick (Dry)",
+      "uid": "DecorationsTFC:MudBrickRaw.Rhyolite",
+      "meta": 1,
+      "color": "#8a857c"
+    },
+    {
+      "name": "Rhyolite Mud Brick (Wet)",
+      "uid": "DecorationsTFC:MudBrickRaw.Rhyolite",
+      "meta": 0,
+      "color": "#8a857c"
+    },
+    {
+      "name": "Rhyolite Mud Bricks",
+      "uid": "DecorationsTFC:MudBricks",
+      "meta": 11,
+      "color": "#5b5141"
+    },
+    {
+      "name": "Rhyolite Smooth Wall",
+      "uid": "terrafirmacraft:WallSmoothIgEx",
+      "meta": 0,
+      "color": "#8b867d"
+    },
+    {
+      "name": "Rhyolite Wall",
+      "uid": "terrafirmacraft:WallRawIgEx",
+      "meta": 0,
+      "color": "#8a867e"
+    },
+    {
+      "name": "Rock Salt",
+      "uid": "terrafirmacraft:StoneSed",
+      "meta": 2,
+      "color": "#aba4a2"
+    },
+    {
+      "name": "Rock Salt Brick Wall",
+      "uid": "terrafirmacraft:WallBrickSed",
+      "meta": 2,
+      "color": "#b5aca9"
+    },
+    {
+      "name": "Rock Salt Bricks",
+      "uid": "terrafirmacraft:StoneSedBrick",
+      "meta": 2,
+      "color": "#b5aca9"
+    },
+    {
+      "name": "Rock Salt Cobblestone",
+      "uid": "terrafirmacraft:StoneSedCobble",
+      "meta": 2,
+      "color": "#aaa3a0"
+    },
+    {
+      "name": "Rock Salt Cobblestone Wall",
+      "uid": "terrafirmacraft:WallCobbleSed",
+      "meta": 2,
+      "color": "#aaa3a0"
+    },
+    {
+      "name": "Rock Salt Mud Brick (Dry)",
+      "uid": "DecorationsTFC:MudBrickRaw.RockSalt",
+      "meta": 1,
+      "color": "#b2a9a6"
+    },
+    {
+      "name": "Rock Salt Mud Brick (Wet)",
+      "uid": "DecorationsTFC:MudBrickRaw.RockSalt",
+      "meta": 0,
+      "color": "#b2a9a6"
+    },
+    {
+      "name": "Rock Salt Smooth Wall",
+      "uid": "terrafirmacraft:WallSmoothSed",
+      "meta": 2,
+      "color": "#b6ada9"
+    },
+    {
+      "name": "Rock Salt Wall",
+      "uid": "terrafirmacraft:WallRawSed",
+      "meta": 2,
+      "color": "#aba4a2"
+    },
+    {
+      "name": "Rose Bush",
+      "uid": "minecraft:double_plant",
+      "meta": 4,
+      "color": "#733d07"
+    },
+    {
+      "name": "Rose Gold Anvil",
+      "uid": "terrafirmacraft:Anvil2",
+      "meta": 0,
+      "color": "#6c4222"
+    },
+    {
+      "name": "Rose Gold Lantern",
+      "uid": "DecorationsTFC:Lantern.RoseGold",
+      "meta": 0,
+      "color": "#ee7742"
+    },
+    {
+      "name": "Salt Water",
+      "uid": "terrafirmacraft:SaltWaterStationary",
+      "meta": 0,
+      "color": "#2e43f4",
+      "alpha": 0.3
+    },
+    {
+      "name": "Salt Water Flowing",
+      "uid": "terrafirmacraft:SaltWater",
+      "meta": 0,
+      "color": "#2e43f4",
+      "alpha": 0.3
+    },
+    {
+      "name": "Sand",
+      "uid": "minecraft:sand",
+      "meta": 0,
+      "color": "#dbd3a0"
+    },
+    {
+      "name": "Sand",
+      "uid": "terrafirmacraft:Sand",
+      "meta": 0,
+      "color": "#a4a29e"
+    },
+    {
+      "name": "Sand",
+      "uid": "terrafirmacraft:Sand",
+      "meta": 1,
+      "color": "#9d9d9b"
+    },
+    {
+      "name": "Sand",
+      "uid": "terrafirmacraft:Sand",
+      "meta": 2,
+      "color": "#898989"
+    },
+    {
+      "name": "Sand",
+      "uid": "terrafirmacraft:Sand",
+      "meta": 3,
+      "color": "#5a595b"
+    },
+    {
+      "name": "Sand",
+      "uid": "terrafirmacraft:Sand",
+      "meta": 4,
+      "color": "#a0876e"
+    },
+    {
+      "name": "Sand",
+      "uid": "terrafirmacraft:Sand",
+      "meta": 5,
+      "color": "#a9a29f"
+    },
+    {
+      "name": "Sand",
+      "uid": "terrafirmacraft:Sand",
+      "meta": 6,
+      "color": "#aca591"
+    },
+    {
+      "name": "Sand",
+      "uid": "terrafirmacraft:Sand",
+      "meta": 7,
+      "color": "#847a62"
+    },
+    {
+      "name": "Sand",
+      "uid": "terrafirmacraft:Sand",
+      "meta": 8,
+      "color": "#625f61"
+    },
+    {
+      "name": "Sand",
+      "uid": "terrafirmacraft:Sand",
+      "meta": 9,
+      "color": "#715745"
+    },
+    {
+      "name": "Sand",
+      "uid": "terrafirmacraft:Sand",
+      "meta": 10,
+      "color": "#afafab"
+    },
+    {
+      "name": "Sand",
+      "uid": "terrafirmacraft:Sand",
+      "meta": 11,
+      "color": "#8a867e"
+    },
+    {
+      "name": "Sand",
+      "uid": "terrafirmacraft:Sand",
+      "meta": 12,
+      "color": "#383c3e"
+    },
+    {
+      "name": "Sand",
+      "uid": "terrafirmacraft:Sand",
+      "meta": 13,
+      "color": "#6f7273"
+    },
+    {
+      "name": "Sand",
+      "uid": "terrafirmacraft:Sand",
+      "meta": 14,
+      "color": "#8c8c8e"
+    },
+    {
+      "name": "Sand",
+      "uid": "terrafirmacraft:Sand",
+      "meta": 15,
+      "color": "#9c9592"
+    },
+    {
+      "name": "Sand",
+      "uid": "terrafirmacraft:Sand2",
+      "meta": 0,
+      "color": "#979287"
+    },
+    {
+      "name": "Sand",
+      "uid": "terrafirmacraft:Sand2",
+      "meta": 1,
+      "color": "#7a7672"
+    },
+    {
+      "name": "Sand",
+      "uid": "terrafirmacraft:Sand2",
+      "meta": 2,
+      "color": "#787d6a"
+    },
+    {
+      "name": "Sand",
+      "uid": "terrafirmacraft:Sand2",
+      "meta": 3,
+      "color": "#8a887c"
+    },
+    {
+      "name": "Sand",
+      "uid": "terrafirmacraft:Sand2",
+      "meta": 4,
+      "color": "#aeaca9"
+    },
+    {
+      "name": "Sandstone",
+      "uid": "minecraft:sandstone",
+      "meta": 0,
+      "color": "#dad29e"
+    },
+    {
+      "name": "Sandstone Slab",
+      "uid": "minecraft:stone_slab",
+      "meta": 1,
+      "color": "#dad29e"
+    },
+    {
+      "name": "Sandstone Stairs",
+      "uid": "minecraft:sandstone_stairs",
+      "meta": 0,
+      "color": "#dad29e"
+    },
+    {
+      "name": "Schist",
+      "uid": "terrafirmacraft:StoneMM",
+      "meta": 3,
+      "color": "#7a7e6c"
+    },
+    {
+      "name": "Schist Brick Wall",
+      "uid": "terrafirmacraft:WallBrickMM",
+      "meta": 3,
+      "color": "#767b65"
+    },
+    {
+      "name": "Schist Bricks",
+      "uid": "terrafirmacraft:StoneMMBrick",
+      "meta": 3,
+      "color": "#767b65"
+    },
+    {
+      "name": "Schist Cobblestone",
+      "uid": "terrafirmacraft:StoneMMCobble",
+      "meta": 3,
+      "color": "#757967"
+    },
+    {
+      "name": "Schist Cobblestone Wall",
+      "uid": "terrafirmacraft:WallCobbleMM",
+      "meta": 3,
+      "color": "#757967"
+    },
+    {
+      "name": "Schist Mud Brick (Dry)",
+      "uid": "DecorationsTFC:MudBrickRaw.Schist",
+      "meta": 1,
+      "color": "#787c66"
+    },
+    {
+      "name": "Schist Mud Brick (Wet)",
+      "uid": "DecorationsTFC:MudBrickRaw.Schist",
+      "meta": 0,
+      "color": "#787c66"
+    },
+    {
+      "name": "Schist Mud Bricks",
+      "uid": "DecorationsTFC:MudBricks2",
+      "meta": 2,
+      "color": "#4e4b35"
+    },
+    {
+      "name": "Schist Smooth Wall",
+      "uid": "terrafirmacraft:WallSmoothMM",
+      "meta": 3,
+      "color": "#777c65"
+    },
+    {
+      "name": "Schist Wall",
+      "uid": "terrafirmacraft:WallRawMM",
+      "meta": 3,
+      "color": "#7a7e6c"
+    },
+    {
+      "name": "Seeds",
+      "uid": "minecraft:wheat",
+      "meta": 0,
+      "color": "#00b312"
+    },
+    {
+      "name": "Sequoia Barrel",
+      "uid": "terrafirmacraft:Barrel",
+      "meta": 9,
+      "color": "#7f4928"
+    },
+    {
+      "name": "Sequoia Door",
+      "uid": "terrafirmacraft:DoorSequoia",
+      "meta": 0,
+      "color": "#7e492a"
+    },
+    {
+      "name": "Sequoia Fence",
+      "uid": "terrafirmacraft:Fence",
+      "meta": 9,
+      "color": "#804a29",
+      "alpha": 0.4
+    },
+    {
+      "name": "Sequoia Fence Gate",
+      "uid": "terrafirmacraft:FenceGate",
+      "meta": 9,
+      "color": "#7f4928",
+      "alpha": 0.4
+    },
+    {
+      "name": "Sequoia Log",
+      "uid": "terrafirmacraft:WoodHoriz2",
+      "meta": 1,
+      "color": "#432912"
+    },
+    {
+      "name": "Sequoia Log",
+      "uid": "terrafirmacraft:WoodVert",
+      "meta": 9,
+      "color": "#bf9e68"
+    },
+    {
+      "name": "Sequoia Log",
+      "uid": "terrafirmacraft:log",
+      "meta": 9,
+      "color": "#bf9e68"
+    },
+    {
+      "name": "Sequoia Loom",
+      "uid": "terrafirmacraft:Loom",
+      "meta": 9,
+      "color": "#7f4928"
+    },
+    {
+      "name": "Sequoia Planks",
+      "uid": "terrafirmacraft:planks",
+      "meta": 9,
+      "color": "#7f4928"
+    },
+    {
+      "name": "Sequoia Sapling",
+      "uid": "terrafirmacraft:sapling",
+      "meta": 9,
+      "color": "#4c402b"
+    },
+    {
+      "name": "Sequoia Support Beam",
+      "uid": "terrafirmacraft:WoodSupportV",
+      "meta": 9,
+      "color": "#d5ae78"
+    },
+    {
+      "name": "Sequoia Tool Rack",
+      "uid": "terrafirmacraft:ToolRack",
+      "meta": 9,
+      "color": "#d5ae78"
+    },
+    {
+      "name": "Shale",
+      "uid": "terrafirmacraft:StoneSed",
+      "meta": 0,
+      "color": "#5c5b5d"
+    },
+    {
+      "name": "Shale Brick Wall",
+      "uid": "terrafirmacraft:WallBrickSed",
+      "meta": 0,
+      "color": "#504f52"
+    },
+    {
+      "name": "Shale Bricks",
+      "uid": "terrafirmacraft:StoneSedBrick",
+      "meta": 0,
+      "color": "#504f52"
+    },
+    {
+      "name": "Shale Cobblestone",
+      "uid": "terrafirmacraft:StoneSedCobble",
+      "meta": 0,
+      "color": "#555456"
+    },
+    {
+      "name": "Shale Cobblestone Wall",
+      "uid": "terrafirmacraft:WallCobbleSed",
+      "meta": 0,
+      "color": "#555456"
+    },
+    {
+      "name": "Shale Mud Brick (Dry)",
+      "uid": "DecorationsTFC:MudBrickRaw.Shale",
+      "meta": 1,
+      "color": "#4e4d50"
+    },
+    {
+      "name": "Shale Mud Brick (Wet)",
+      "uid": "DecorationsTFC:MudBrickRaw.Shale",
+      "meta": 0,
+      "color": "#4e4d50"
+    },
+    {
+      "name": "Shale Mud Bricks",
+      "uid": "DecorationsTFC:MudBricks",
+      "meta": 3,
+      "color": "#35302b"
+    },
+    {
+      "name": "Shale Smooth Wall",
+      "uid": "terrafirmacraft:WallSmoothSed",
+      "meta": 0,
+      "color": "#514f52"
+    },
+    {
+      "name": "Shale Wall",
+      "uid": "terrafirmacraft:WallRawSed",
+      "meta": 0,
+      "color": "#5c5b5d"
+    },
+    {
+      "name": "Sheet Metal Block",
+      "uid": "ImmersiveEngineering:metalDecoration",
+      "meta": 10,
+      "color": "#b2b2b2"
+    },
+    {
+      "name": "Ship\u0027s Helm",
+      "uid": "ArchimedesShipsPlus:marker",
+      "meta": 0,
+      "color": "#67563a"
+    },
+    {
+      "name": "Shore Buffer",
+      "uid": "ArchimedesShipsPlus:buffer",
+      "meta": 0,
+      "color": "#556378"
+    },
+    {
+      "name": "Shrub",
+      "uid": "minecraft:tallgrass",
+      "meta": 1,
+      "color": "#747474"
+    },
+    {
+      "name": "Shrub",
+      "uid": "minecraft:tallgrass",
+      "meta": 2,
+      "color": "#787878"
+    },
+    {
+      "name": "Sign",
+      "uid": "minecraft:standing_sign",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Sign",
+      "uid": "minecraft:wall_sign",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Silver Air Balloon",
+      "uid": "ArchimedesShipsPlus:balloon",
+      "meta": 8,
+      "color": "#e1e1e1"
+    },
+    {
+      "name": "Silver Lantern",
+      "uid": "DecorationsTFC:Lantern.Silver",
+      "meta": 0,
+      "color": "#999a9a"
+    },
+    {
+      "name": "Silver Ore",
+      "uid": "ImmersiveEngineering:ore",
+      "meta": 3,
+      "color": "#7d7e7e"
+    },
+    {
+      "name": "Silver Slab",
+      "uid": "ImmersiveEngineering:storageSlab",
+      "meta": 3,
+      "color": "#aad4d4"
+    },
+    {
+      "name": "Skeleton Skull",
+      "uid": "minecraft:skull",
+      "meta": 0,
+      "color": "#544033"
+    },
+    {
+      "name": "Slate",
+      "uid": "terrafirmacraft:StoneMM",
+      "meta": 1,
+      "color": "#969085"
+    },
+    {
+      "name": "Slate Brick Wall",
+      "uid": "terrafirmacraft:WallBrickMM",
+      "meta": 1,
+      "color": "#9a9285"
+    },
+    {
+      "name": "Slate Bricks",
+      "uid": "terrafirmacraft:StoneMMBrick",
+      "meta": 1,
+      "color": "#9a9285"
+    },
+    {
+      "name": "Slate Cobblestone",
+      "uid": "terrafirmacraft:StoneMMCobble",
+      "meta": 1,
+      "color": "#938d82"
+    },
+    {
+      "name": "Slate Cobblestone Wall",
+      "uid": "terrafirmacraft:WallCobbleMM",
+      "meta": 1,
+      "color": "#938d82"
+    },
+    {
+      "name": "Slate Mud Brick (Dry)",
+      "uid": "DecorationsTFC:MudBrickRaw.Slate",
+      "meta": 1,
+      "color": "#9c9487"
+    },
+    {
+      "name": "Slate Mud Brick (Wet)",
+      "uid": "DecorationsTFC:MudBrickRaw.Slate",
+      "meta": 0,
+      "color": "#9c9487"
+    },
+    {
+      "name": "Slate Mud Bricks",
+      "uid": "DecorationsTFC:MudBricks2",
+      "meta": 0,
+      "color": "#665946"
+    },
+    {
+      "name": "Slate Smooth Wall",
+      "uid": "terrafirmacraft:WallSmoothMM",
+      "meta": 1,
+      "color": "#9b9385"
+    },
+    {
+      "name": "Slate Wall",
+      "uid": "terrafirmacraft:WallRawMM",
+      "meta": 1,
+      "color": "#969085"
+    },
+    {
+      "name": "Sluice",
+      "uid": "terrafirmacraft:Sluice",
+      "meta": 0,
+      "color": "#cfbd97"
+    },
+    {
+      "name": "Small Speaker",
+      "uid": "betterrecords:recordspeaker.sm",
+      "meta": 0,
+      "color": "#916a40"
+    },
+    {
+      "name": "Smoke",
+      "uid": "terrafirmacraft:Smoke",
+      "meta": 0,
+      "color": "#ffffff"
+    },
+    {
+      "name": "Smoke Rack",
+      "uid": "terrafirmacraft:SmokeRack",
+      "meta": 0,
+      "color": "#dddddd"
+    },
+    {
+      "name": "Smooth Andesite",
+      "uid": "terrafirmacraft:StoneIgExSmooth",
+      "meta": 2,
+      "color": "#6c7172"
+    },
+    {
+      "name": "Smooth Basalt",
+      "uid": "terrafirmacraft:StoneIgExSmooth",
+      "meta": 1,
+      "color": "#262a2d"
+    },
+    {
+      "name": "Smooth Chalk",
+      "uid": "terrafirmacraft:StoneSedSmooth",
+      "meta": 7,
+      "color": "#bbb9b5"
+    },
+    {
+      "name": "Smooth Chert",
+      "uid": "terrafirmacraft:StoneSedSmooth",
+      "meta": 6,
+      "color": "#704e3a"
+    },
+    {
+      "name": "Smooth Claystone",
+      "uid": "terrafirmacraft:StoneSedSmooth",
+      "meta": 1,
+      "color": "#a8896a"
+    },
+    {
+      "name": "Smooth Conglomerate",
+      "uid": "terrafirmacraft:StoneSedSmooth",
+      "meta": 4,
+      "color": "#887a5d"
+    },
+    {
+      "name": "Smooth Dacite",
+      "uid": "terrafirmacraft:StoneIgExSmooth",
+      "meta": 3,
+      "color": "#909091"
+    },
+    {
+      "name": "Smooth Diorite",
+      "uid": "terrafirmacraft:StoneIgInSmooth",
+      "meta": 1,
+      "color": "#8e8e8d"
+    },
+    {
+      "name": "Smooth Dolomite",
+      "uid": "terrafirmacraft:StoneSedSmooth",
+      "meta": 5,
+      "color": "#555256"
+    },
+    {
+      "name": "Smooth Gabbro",
+      "uid": "terrafirmacraft:StoneIgInSmooth",
+      "meta": 2,
+      "color": "#7b7b7b"
+    },
+    {
+      "name": "Smooth Gneiss",
+      "uid": "terrafirmacraft:StoneMMSmooth",
+      "meta": 4,
+      "color": "#928c7d"
+    },
+    {
+      "name": "Smooth Granite",
+      "uid": "terrafirmacraft:StoneIgInSmooth",
+      "meta": 0,
+      "color": "#aeaca6"
+    },
+    {
+      "name": "Smooth Limestone",
+      "uid": "terrafirmacraft:StoneSedSmooth",
+      "meta": 3,
+      "color": "#b4aa91"
+    },
+    {
+      "name": "Smooth Marble",
+      "uid": "terrafirmacraft:StoneMMSmooth",
+      "meta": 5,
+      "color": "#bab6b3"
+    },
+    {
+      "name": "Smooth Phyllite",
+      "uid": "terrafirmacraft:StoneMMSmooth",
+      "meta": 2,
+      "color": "#776f6a"
+    },
+    {
+      "name": "Smooth Quartzite",
+      "uid": "terrafirmacraft:StoneMMSmooth",
+      "meta": 0,
+      "color": "#a69c99"
+    },
+    {
+      "name": "Smooth Rhyolite",
+      "uid": "terrafirmacraft:StoneIgExSmooth",
+      "meta": 0,
+      "color": "#8b867d"
+    },
+    {
+      "name": "Smooth Rock Salt",
+      "uid": "terrafirmacraft:StoneSedSmooth",
+      "meta": 2,
+      "color": "#b6ada9"
+    },
+    {
+      "name": "Smooth Sandstone",
+      "uid": "minecraft:sandstone",
+      "meta": 2,
+      "color": "#dad29e"
+    },
+    {
+      "name": "Smooth Schist",
+      "uid": "terrafirmacraft:StoneMMSmooth",
+      "meta": 3,
+      "color": "#777c65"
+    },
+    {
+      "name": "Smooth Shale",
+      "uid": "terrafirmacraft:StoneSedSmooth",
+      "meta": 0,
+      "color": "#514f52"
+    },
+    {
+      "name": "Smooth Slate",
+      "uid": "terrafirmacraft:StoneMMSmooth",
+      "meta": 1,
+      "color": "#9b9385"
+    },
+    {
+      "name": "Snow",
+      "uid": "minecraft:snow",
+      "meta": 0,
+      "color": "#effbfb"
+    },
+    {
+      "name": "Snow",
+      "uid": "minecraft:snow_layer",
+      "meta": 0,
+      "color": "#effbfb"
+    },
+    {
+      "name": "Snow",
+      "uid": "terrafirmacraft:Snow",
+      "meta": 0,
+      "color": "#effbfb"
+    },
+    {
+      "name": "Snowberry Bush",
+      "uid": "terrafirmacraft:BerryBush",
+      "meta": 7,
+      "color": "#5b7a37"
+    },
+    {
+      "name": "Soul Sand",
+      "uid": "minecraft:soul_sand",
+      "meta": 0,
+      "color": "#544033"
+    },
+    {
+      "name": "Sponge",
+      "uid": "minecraft:sponge",
+      "meta": 0,
+      "color": "#b6b639"
+    },
+    {
+      "name": "Spruce Barrel",
+      "uid": "terrafirmacraft:Barrel",
+      "meta": 10,
+      "color": "#b66d54"
+    },
+    {
+      "name": "Spruce Door",
+      "uid": "terrafirmacraft:DoorSpruce",
+      "meta": 0,
+      "color": "#ac6750"
+    },
+    {
+      "name": "Spruce Fence",
+      "uid": "terrafirmacraft:Fence",
+      "meta": 10,
+      "color": "#b06b54",
+      "alpha": 0.4
+    },
+    {
+      "name": "Spruce Fence Gate",
+      "uid": "terrafirmacraft:FenceGate",
+      "meta": 10,
+      "color": "#b66d54",
+      "alpha": 0.4
+    },
+    {
+      "name": "Spruce Leaves",
+      "uid": "minecraft:leaves",
+      "meta": 1,
+      "color": "#747474"
+    },
+    {
+      "name": "Spruce Log",
+      "uid": "terrafirmacraft:WoodHoriz2",
+      "meta": 2,
+      "color": "#302820"
+    },
+    {
+      "name": "Spruce Log",
+      "uid": "terrafirmacraft:WoodVert",
+      "meta": 10,
+      "color": "#aa917f"
+    },
+    {
+      "name": "Spruce Log",
+      "uid": "terrafirmacraft:log",
+      "meta": 10,
+      "color": "#aa917f"
+    },
+    {
+      "name": "Spruce Loom",
+      "uid": "terrafirmacraft:Loom",
+      "meta": 10,
+      "color": "#b66d54"
+    },
+    {
+      "name": "Spruce Planks",
+      "uid": "terrafirmacraft:planks",
+      "meta": 10,
+      "color": "#b66d54"
+    },
+    {
+      "name": "Spruce Sapling",
+      "uid": "minecraft:sapling",
+      "meta": 1,
+      "color": "#333a21"
+    },
+    {
+      "name": "Spruce Sapling",
+      "uid": "terrafirmacraft:sapling",
+      "meta": 10,
+      "color": "#4d2e20"
+    },
+    {
+      "name": "Spruce Support Beam",
+      "uid": "terrafirmacraft:WoodSupportV",
+      "meta": 10,
+      "color": "#cfaa90"
+    },
+    {
+      "name": "Spruce Tool Rack",
+      "uid": "terrafirmacraft:ToolRack",
+      "meta": 10,
+      "color": "#cfaa90"
+    },
+    {
+      "name": "Spruce Wood",
+      "uid": "minecraft:log",
+      "meta": 1,
+      "color": "#685130"
+    },
+    {
+      "name": "Spruce Wood Planks",
+      "uid": "minecraft:planks",
+      "meta": 1,
+      "color": "#674d2e"
+    },
+    {
+      "name": "Spruce Wood Slab",
+      "uid": "minecraft:wooden_slab",
+      "meta": 1,
+      "color": "#674d2e"
+    },
+    {
+      "name": "Spruce Wood Stairs",
+      "uid": "minecraft:spruce_stairs",
+      "meta": 0,
+      "color": "#674d2e"
+    },
+    {
+      "name": "Steam Engine",
+      "uid": "ArchimedesShipsPlus:engine",
+      "meta": 0,
+      "color": "#b0b0b0"
+    },
+    {
+      "name": "Steel Anvil",
+      "uid": "terrafirmacraft:Anvil",
+      "meta": 4,
+      "color": "#282c31"
+    },
+    {
+      "name": "Steel Fence",
+      "uid": "ImmersiveEngineering:metalDecoration",
+      "meta": 0,
+      "color": "#525252"
+    },
+    {
+      "name": "Steel Scaffolding",
+      "uid": "ImmersiveEngineering:metalDecoration",
+      "meta": 1,
+      "color": "#484848"
+    },
+    {
+      "name": "Steel Scaffolding",
+      "uid": "ImmersiveEngineering:metalDecoration",
+      "meta": 11,
+      "color": "#4f3a31"
+    },
+    {
+      "name": "Steel Sheet Metal Block",
+      "uid": "ImmersiveEngineering:metalDecoration2",
+      "meta": 2,
+      "color": "#4b4b4b"
+    },
+    {
+      "name": "Steel Slab",
+      "uid": "ImmersiveEngineering:storageSlab",
+      "meta": 7,
+      "color": "#525252"
+    },
+    {
+      "name": "Steel Wall Mount",
+      "uid": "ImmersiveEngineering:metalDecoration",
+      "meta": 9,
+      "color": "#434343"
+    },
+    {
+      "name": "Sterling Silver Lantern",
+      "uid": "DecorationsTFC:Lantern.SterlingSilver",
+      "meta": 0,
+      "color": "#bb9d83"
+    },
+    {
+      "name": "Sticky Buffer",
+      "uid": "ArchimedesShipsPlus:stickyBuffer",
+      "meta": 0,
+      "color": "#546475"
+    },
+    {
+      "name": "Sticky Piston",
+      "uid": "minecraft:sticky_piston",
+      "meta": 0,
+      "color": "#606060"
+    },
+    {
+      "name": "Stone",
+      "uid": "minecraft:stone",
+      "meta": 0,
+      "color": "#7d7d7d"
+    },
+    {
+      "name": "Stone Brick Stairs",
+      "uid": "minecraft:stone_brick_stairs",
+      "meta": 0,
+      "color": "#7a7a7a"
+    },
+    {
+      "name": "Stone Bricks",
+      "uid": "minecraft:stonebrick",
+      "meta": 0,
+      "color": "#7a7a7a"
+    },
+    {
+      "name": "Stone Bricks Slab",
+      "uid": "minecraft:stone_slab",
+      "meta": 5,
+      "color": "#7a7a7a"
+    },
+    {
+      "name": "Stone Monster Egg",
+      "uid": "minecraft:monster_egg",
+      "meta": 0,
+      "color": "#7d7d7d"
+    },
+    {
+      "name": "Stone Monster Egg",
+      "uid": "minecraft:monster_egg",
+      "meta": 1,
+      "color": "#7a7a7a"
+    },
+    {
+      "name": "Stone Monster Egg",
+      "uid": "minecraft:monster_egg",
+      "meta": 2,
+      "color": "#7a7a7a"
+    },
+    {
+      "name": "Stone Monster Egg",
+      "uid": "minecraft:monster_egg",
+      "meta": 3,
+      "color": "#72776a"
+    },
+    {
+      "name": "Stone Monster Egg",
+      "uid": "minecraft:monster_egg",
+      "meta": 4,
+      "color": "#767676"
+    },
+    {
+      "name": "Stone Monster Egg",
+      "uid": "minecraft:monster_egg",
+      "meta": 5,
+      "color": "#767676"
+    },
+    {
+      "name": "Stone Slab",
+      "uid": "minecraft:stone_slab",
+      "meta": 0,
+      "color": "#9f9f9f"
+    },
+    {
+      "name": "Stone Stairs",
+      "uid": "minecraft:stone_stairs",
+      "meta": 0,
+      "color": "#7a7a7a"
+    },
+    {
+      "name": "Straw \u0026 Hide Bed",
+      "uid": "terrafirmacraft:StrawHideBed",
+      "meta": 0,
+      "color": "#d8d1b8"
+    },
+    {
+      "name": "Strawberry Bush",
+      "uid": "terrafirmacraft:BerryBush",
+      "meta": 3,
+      "color": "#515c1e"
+    },
+    {
+      "name": "String",
+      "uid": "minecraft:tripwire",
+      "meta": 0,
+      "color": "#818181"
+    },
+    {
+      "name": "Strobe Light",
+      "uid": "betterrecords:strobelight",
+      "meta": 0,
+      "color": "#916a40"
+    },
+    {
+      "name": "Structural Arm",
+      "uid": "ImmersiveEngineering:metalDecoration",
+      "meta": 3,
+      "color": "#484848"
+    },
+    {
+      "name": "Structural Cable Connector",
+      "uid": "ImmersiveEngineering:metalDecoration",
+      "meta": 8,
+      "color": "#4d4d4d"
+    },
+    {
+      "name": "Sugar Canes",
+      "uid": "minecraft:reeds",
+      "meta": 0,
+      "color": "#94c065"
+    },
+    {
+      "name": "Sulfur",
+      "uid": "terrafirmacraft:Sulfur",
+      "meta": 0,
+      "color": "#5c5927"
+    },
+    {
+      "name": "Sunflower",
+      "uid": "minecraft:double_plant",
+      "meta": 0,
+      "color": "#436f2d"
+    },
+    {
+      "name": "Sycamore Barrel",
+      "uid": "terrafirmacraft:Barrel",
+      "meta": 11,
+      "color": "#b98437"
+    },
+    {
+      "name": "Sycamore Door",
+      "uid": "terrafirmacraft:DoorSycamore",
+      "meta": 0,
+      "color": "#ab772b"
+    },
+    {
+      "name": "Sycamore Fence",
+      "uid": "terrafirmacraft:Fence",
+      "meta": 11,
+      "color": "#b9863d",
+      "alpha": 0.4
+    },
+    {
+      "name": "Sycamore Fence Gate",
+      "uid": "terrafirmacraft:FenceGate",
+      "meta": 11,
+      "color": "#b98437",
+      "alpha": 0.4
+    },
+    {
+      "name": "Sycamore Log",
+      "uid": "terrafirmacraft:WoodHoriz2",
+      "meta": 3,
+      "color": "#8e897c"
+    },
+    {
+      "name": "Sycamore Log",
+      "uid": "terrafirmacraft:WoodVert",
+      "meta": 11,
+      "color": "#b49068"
+    },
+    {
+      "name": "Sycamore Log",
+      "uid": "terrafirmacraft:log",
+      "meta": 11,
+      "color": "#b49068"
+    },
+    {
+      "name": "Sycamore Loom",
+      "uid": "terrafirmacraft:Loom",
+      "meta": 11,
+      "color": "#b98437"
+    },
+    {
+      "name": "Sycamore Planks",
+      "uid": "terrafirmacraft:planks",
+      "meta": 11,
+      "color": "#b98437"
+    },
+    {
+      "name": "Sycamore Sapling",
+      "uid": "terrafirmacraft:sapling",
+      "meta": 11,
+      "color": "#5e612c"
+    },
+    {
+      "name": "Sycamore Support Beam",
+      "uid": "terrafirmacraft:WoodSupportV",
+      "meta": 11,
+      "color": "#af8755"
+    },
+    {
+      "name": "Sycamore Tool Rack",
+      "uid": "terrafirmacraft:ToolRack",
+      "meta": 11,
+      "color": "#af8755"
+    },
+    {
+      "name": "TNT",
+      "uid": "minecraft:tnt",
+      "meta": 0,
+      "color": "#82412f"
+    },
+    {
+      "name": "Tall Grass",
+      "uid": "terrafirmacraft:TallGrass",
+      "meta": 0,
+      "color": "#747474"
+    },
+    {
+      "name": "Tall Grass",
+      "uid": "terrafirmacraft:TallGrass",
+      "meta": 1,
+      "color": "#787878"
+    },
+    {
+      "name": "Tall Grass",
+      "uid": "terrafirmacraft:TallGrass",
+      "meta": 2,
+      "color": "#4e4e4e"
+    },
+    {
+      "name": "Thatch",
+      "uid": "terrafirmacraft:Thatch",
+      "meta": 0,
+      "color": "#bf9e56"
+    },
+    {
+      "name": "Thermoelectric Generator",
+      "uid": "ImmersiveEngineering:metalDevice",
+      "meta": 10,
+      "color": "#675b54"
+    },
+    {
+      "name": "Torch",
+      "uid": "minecraft:torch",
+      "meta": 0,
+      "color": "#826a3a"
+    },
+    {
+      "name": "Torch",
+      "uid": "terrafirmacraft:Torch",
+      "meta": 0,
+      "color": "#826a3a"
+    },
+    {
+      "name": "Transformer",
+      "uid": "ImmersiveEngineering:metalDevice",
+      "meta": 4,
+      "color": "#4e4744"
+    },
+    {
+      "name": "Trap Door",
+      "uid": "terrafirmacraft:MetalTrapDoor",
+      "meta": 0,
+      "color": "#486a72"
+    },
+    {
+      "name": "Trap Door",
+      "uid": "terrafirmacraft:MetalTrapDoor",
+      "meta": 33,
+      "color": "#3f8d4d"
+    },
+    {
+      "name": "Trap Door",
+      "uid": "terrafirmacraft:MetalTrapDoor",
+      "meta": 66,
+      "color": "#3b2435"
+    },
+    {
+      "name": "Trap Door",
+      "uid": "terrafirmacraft:MetalTrapDoor",
+      "meta": 99,
+      "color": "#101010"
+    },
+    {
+      "name": "Trap Door",
+      "uid": "terrafirmacraft:MetalTrapDoor",
+      "meta": 132,
+      "color": "#2a5398"
+    },
+    {
+      "name": "Trap Door",
+      "uid": "terrafirmacraft:MetalTrapDoor",
+      "meta": 165,
+      "color": "#95882e"
+    },
+    {
+      "name": "Trap Door",
+      "uid": "terrafirmacraft:MetalTrapDoor",
+      "meta": 198,
+      "color": "#7a5c32"
+    },
+    {
+      "name": "Trap Door",
+      "uid": "terrafirmacraft:MetalTrapDoor",
+      "meta": 231,
+      "color": "#b23e25"
+    },
+    {
+      "name": "Trap Door",
+      "uid": "terrafirmacraft:MetalTrapDoor",
+      "meta": 264,
+      "color": "#d7be1b"
+    },
+    {
+      "name": "Trap Door",
+      "uid": "terrafirmacraft:MetalTrapDoor",
+      "meta": 297,
+      "color": "#969696"
+    },
+    {
+      "name": "Trap Door",
+      "uid": "terrafirmacraft:MetalTrapDoor",
+      "meta": 330,
+      "color": "#3e474b"
+    },
+    {
+      "name": "Trap Door",
+      "uid": "terrafirmacraft:MetalTrapDoor",
+      "meta": 363,
+      "color": "#4c4c39"
+    },
+    {
+      "name": "Trap Door",
+      "uid": "terrafirmacraft:MetalTrapDoor",
+      "meta": 396,
+      "color": "#685659"
+    },
+    {
+      "name": "Trap Door",
+      "uid": "terrafirmacraft:MetalTrapDoor",
+      "meta": 429,
+      "color": "#9aa9bb"
+    },
+    {
+      "name": "Trap Door",
+      "uid": "terrafirmacraft:MetalTrapDoor",
+      "meta": 462,
+      "color": "#700402"
+    },
+    {
+      "name": "Trap Door",
+      "uid": "terrafirmacraft:MetalTrapDoor",
+      "meta": 495,
+      "color": "#e76f35"
+    },
+    {
+      "name": "Trap Door",
+      "uid": "terrafirmacraft:MetalTrapDoor",
+      "meta": 528,
+      "color": "#929292"
+    },
+    {
+      "name": "Trap Door",
+      "uid": "terrafirmacraft:MetalTrapDoor",
+      "meta": 561,
+      "color": "#5e5d5d"
+    },
+    {
+      "name": "Trap Door",
+      "uid": "terrafirmacraft:MetalTrapDoor",
+      "meta": 594,
+      "color": "#a58c77"
+    },
+    {
+      "name": "Trap Door",
+      "uid": "terrafirmacraft:MetalTrapDoor",
+      "meta": 627,
+      "color": "#8da2ba"
+    },
+    {
+      "name": "Trap Door",
+      "uid": "terrafirmacraft:MetalTrapDoor",
+      "meta": 660,
+      "color": "#b4b2bd"
+    },
+    {
+      "name": "Trapdoor",
+      "uid": "minecraft:trapdoor",
+      "meta": 0,
+      "color": "#7e5d2d"
+    },
+    {
+      "name": "Trapped Chest",
+      "uid": "minecraft:trapped_chest",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Treated Wood Fence",
+      "uid": "ImmersiveEngineering:woodenDecoration",
+      "meta": 1,
+      "color": "#542f1f"
+    },
+    {
+      "name": "Treated Wood Planks",
+      "uid": "ImmersiveEngineering:treatedWood",
+      "meta": 0,
+      "color": "#542f1f"
+    },
+    {
+      "name": "Treated Wood Planks",
+      "uid": "ImmersiveEngineering:treatedWood",
+      "meta": 1,
+      "color": "#4d2d1e"
+    },
+    {
+      "name": "Treated Wood Planks",
+      "uid": "ImmersiveEngineering:treatedWood",
+      "meta": 2,
+      "color": "#4d2d1f"
+    },
+    {
+      "name": "Treated Wood Scaffolding",
+      "uid": "ImmersiveEngineering:woodenDecoration",
+      "meta": 5,
+      "color": "#4e2c1c"
+    },
+    {
+      "name": "Treated Wood Slab",
+      "uid": "ImmersiveEngineering:woodenDecoration",
+      "meta": 2,
+      "color": "#542f1f"
+    },
+    {
+      "name": "Treated Wood Slab",
+      "uid": "ImmersiveEngineering:woodenDecoration",
+      "meta": 4,
+      "color": "#542f1f"
+    },
+    {
+      "name": "Treated Wood Stairs",
+      "uid": "ImmersiveEngineering:woodenStairs",
+      "meta": 0,
+      "color": "#542f1f"
+    },
+    {
+      "name": "Treated Wood Stairs",
+      "uid": "ImmersiveEngineering:woodenStairs1",
+      "meta": 0,
+      "color": "#4d2d1e"
+    },
+    {
+      "name": "Treated Wood Stairs",
+      "uid": "ImmersiveEngineering:woodenStairs2",
+      "meta": 0,
+      "color": "#4d2d1f"
+    },
+    {
+      "name": "Tripwire Hook",
+      "uid": "minecraft:tripwire_hook",
+      "meta": 0,
+      "color": "#8a8171"
+    },
+    {
+      "name": "Tropical Milkweed",
+      "uid": "terrafirmacraft:Flowers",
+      "meta": 3,
+      "color": "#6f6917"
+    },
+    {
+      "name": "Vine",
+      "uid": "terrafirmacraft:Vine",
+      "meta": 0,
+      "color": "#6f6f6f",
+      "alpha": 0.2
+    },
+    {
+      "name": "Vines",
+      "uid": "minecraft:vine",
+      "meta": 0,
+      "color": "#6f6f6f",
+      "alpha": 0.2
+    },
+    {
+      "name": "Water",
+      "uid": "minecraft:flowing_water",
+      "meta": 0,
+      "color": "#2e43f4",
+      "alpha": 0.3
+    },
+    {
+      "name": "Water",
+      "uid": "minecraft:water",
+      "meta": 0,
+      "color": "#2e43f4",
+      "alpha": 0.3
+    },
+    {
+      "name": "Water Wheel",
+      "uid": "ImmersiveEngineering:woodenDevice",
+      "meta": 1,
+      "color": "#542f1f"
+    },
+    {
+      "name": "Weighted Pressure Plate (Heavy)",
+      "uid": "minecraft:heavy_weighted_pressure_plate",
+      "meta": 0,
+      "color": "#dbdbdb"
+    },
+    {
+      "name": "Weighted Pressure Plate (Light)",
+      "uid": "minecraft:light_weighted_pressure_plate",
+      "meta": 0,
+      "color": "#f9ec4e"
+    },
+    {
+      "name": "White Cedar Barrel",
+      "uid": "terrafirmacraft:Barrel",
+      "meta": 12,
+      "color": "#c1c2b5"
+    },
+    {
+      "name": "White Cedar Door",
+      "uid": "terrafirmacraft:DoorWhiteCedar",
+      "meta": 0,
+      "color": "#bbbaaf"
+    },
+    {
+      "name": "White Cedar Fence",
+      "uid": "terrafirmacraft:Fence",
+      "meta": 12,
+      "color": "#c2c1b4",
+      "alpha": 0.4
+    },
+    {
+      "name": "White Cedar Fence Gate",
+      "uid": "terrafirmacraft:FenceGate",
+      "meta": 12,
+      "color": "#c1c2b5",
+      "alpha": 0.4
+    },
+    {
+      "name": "White Cedar Log",
+      "uid": "terrafirmacraft:WoodHoriz2",
+      "meta": 4,
+      "color": "#948978"
+    },
+    {
+      "name": "White Cedar Log",
+      "uid": "terrafirmacraft:WoodVert",
+      "meta": 12,
+      "color": "#cdc7c2"
+    },
+    {
+      "name": "White Cedar Log",
+      "uid": "terrafirmacraft:log",
+      "meta": 12,
+      "color": "#cdc7c2"
+    },
+    {
+      "name": "White Cedar Loom",
+      "uid": "terrafirmacraft:Loom",
+      "meta": 12,
+      "color": "#c1c2b5"
+    },
+    {
+      "name": "White Cedar Planks",
+      "uid": "terrafirmacraft:planks",
+      "meta": 12,
+      "color": "#c1c2b5"
+    },
+    {
+      "name": "White Cedar Sapling",
+      "uid": "terrafirmacraft:sapling",
+      "meta": 12,
+      "color": "#66430d"
+    },
+    {
+      "name": "White Cedar Support Beam",
+      "uid": "terrafirmacraft:WoodSupportV",
+      "meta": 12,
+      "color": "#d2cec9"
+    },
+    {
+      "name": "White Cedar Tool Rack",
+      "uid": "terrafirmacraft:ToolRack",
+      "meta": 12,
+      "color": "#d2cec9"
+    },
+    {
+      "name": "White Elm Barrel",
+      "uid": "terrafirmacraft:Barrel",
+      "meta": 13,
+      "color": "#8c9259"
+    },
+    {
+      "name": "White Elm Door",
+      "uid": "terrafirmacraft:DoorWhiteElm",
+      "meta": 0,
+      "color": "#8a8f58"
+    },
+    {
+      "name": "White Elm Fence",
+      "uid": "terrafirmacraft:Fence",
+      "meta": 13,
+      "color": "#8b9058",
+      "alpha": 0.4
+    },
+    {
+      "name": "White Elm Fence Gate",
+      "uid": "terrafirmacraft:FenceGate",
+      "meta": 13,
+      "color": "#8c9259",
+      "alpha": 0.4
+    },
+    {
+      "name": "White Elm Log",
+      "uid": "terrafirmacraft:WoodHoriz2",
+      "meta": 5,
+      "color": "#63503a"
+    },
+    {
+      "name": "White Elm Log",
+      "uid": "terrafirmacraft:WoodVert",
+      "meta": 13,
+      "color": "#a5a86c"
+    },
+    {
+      "name": "White Elm Log",
+      "uid": "terrafirmacraft:log",
+      "meta": 13,
+      "color": "#a5a86c"
+    },
+    {
+      "name": "White Elm Loom",
+      "uid": "terrafirmacraft:Loom",
+      "meta": 13,
+      "color": "#8c9259"
+    },
+    {
+      "name": "White Elm Planks",
+      "uid": "terrafirmacraft:planks",
+      "meta": 13,
+      "color": "#8c9259"
+    },
+    {
+      "name": "White Elm Sapling",
+      "uid": "terrafirmacraft:sapling",
+      "meta": 13,
+      "color": "#494e25"
+    },
+    {
+      "name": "White Elm Support Beam",
+      "uid": "terrafirmacraft:WoodSupportV",
+      "meta": 13,
+      "color": "#bec780"
+    },
+    {
+      "name": "White Elm Tool Rack",
+      "uid": "terrafirmacraft:ToolRack",
+      "meta": 13,
+      "color": "#bec780"
+    },
+    {
+      "name": "White Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 0,
+      "color": "#d1b2a1"
+    },
+    {
+      "name": "White Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 0,
+      "color": "#ffffff",
+      "alpha": 0.4
+    },
+    {
+      "name": "White Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 0,
+      "color": "#ffffff",
+      "alpha": 0.4
+    },
+    {
+      "name": "White Tulip",
+      "uid": "minecraft:red_flower",
+      "meta": 6,
+      "color": "#b0b0b0"
+    },
+    {
+      "name": "White Tulip",
+      "uid": "terrafirmacraft:Flowers2",
+      "meta": 6,
+      "color": "#5e9941"
+    },
+    {
+      "name": "Willow Barrel",
+      "uid": "terrafirmacraft:Barrel",
+      "meta": 14,
+      "color": "#282e05"
+    },
+    {
+      "name": "Willow Door",
+      "uid": "terrafirmacraft:DoorWillow",
+      "meta": 0,
+      "color": "#2b3108"
+    },
+    {
+      "name": "Willow Fence",
+      "uid": "terrafirmacraft:Fence",
+      "meta": 14,
+      "color": "#293007",
+      "alpha": 0.4
+    },
+    {
+      "name": "Willow Fence Gate",
+      "uid": "terrafirmacraft:FenceGate",
+      "meta": 14,
+      "color": "#282e05",
+      "alpha": 0.4
+    },
+    {
+      "name": "Willow Log",
+      "uid": "terrafirmacraft:WoodHoriz2",
+      "meta": 6,
+      "color": "#444528"
+    },
+    {
+      "name": "Willow Log",
+      "uid": "terrafirmacraft:WoodVert",
+      "meta": 14,
+      "color": "#333511"
+    },
+    {
+      "name": "Willow Log",
+      "uid": "terrafirmacraft:log",
+      "meta": 14,
+      "color": "#333511"
+    },
+    {
+      "name": "Willow Loom",
+      "uid": "terrafirmacraft:Loom",
+      "meta": 14,
+      "color": "#282e05"
+    },
+    {
+      "name": "Willow Planks",
+      "uid": "terrafirmacraft:planks",
+      "meta": 14,
+      "color": "#282e05"
+    },
+    {
+      "name": "Willow Sapling",
+      "uid": "terrafirmacraft:sapling",
+      "meta": 14,
+      "color": "#2d4b23"
+    },
+    {
+      "name": "Willow Support Beam",
+      "uid": "terrafirmacraft:WoodSupportV",
+      "meta": 14,
+      "color": "#34370c"
+    },
+    {
+      "name": "Willow Tool Rack",
+      "uid": "terrafirmacraft:ToolRack",
+      "meta": 14,
+      "color": "#34370c"
+    },
+    {
+      "name": "Windmill",
+      "uid": "ImmersiveEngineering:woodenDevice",
+      "meta": 2,
+      "color": "#542f1f"
+    },
+    {
+      "name": "Wintergreen Bush",
+      "uid": "terrafirmacraft:BerryBush",
+      "meta": 0,
+      "color": "#2f5c2a"
+    },
+    {
+      "name": "Wooden Barrel",
+      "uid": "ImmersiveEngineering:woodenDevice",
+      "meta": 6,
+      "color": "#532e1d"
+    },
+    {
+      "name": "Wooden Button",
+      "uid": "terrafirmacraft:ButtonWood",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Wooden Crate",
+      "uid": "ArchimedesShipsPlus:crate_wood",
+      "meta": 0,
+      "color": "#9f754a"
+    },
+    {
+      "name": "Wooden Door",
+      "uid": "minecraft:wooden_door",
+      "meta": 0,
+      "color": "#866532"
+    },
+    {
+      "name": "Wooden Post",
+      "uid": "ImmersiveEngineering:woodenDevice",
+      "meta": 0,
+      "color": "#4b3227"
+    },
+    {
+      "name": "Wooden Storage Crate",
+      "uid": "ImmersiveEngineering:woodenDevice",
+      "meta": 4,
+      "color": "#482719"
+    },
+    {
+      "name": "Wooden Wall Mount",
+      "uid": "ImmersiveEngineering:woodenDecoration",
+      "meta": 6,
+      "color": "#522e1d"
+    },
+    {
+      "name": "Wool",
+      "uid": "minecraft:wool",
+      "meta": 0,
+      "color": "#dddddd"
+    },
+    {
+      "name": "Workbench",
+      "uid": "terrafirmacraft:Workbench",
+      "meta": 0,
+      "color": "#6b472a"
+    },
+    {
+      "name": "Wrought Iron Anvil",
+      "uid": "terrafirmacraft:Anvil",
+      "meta": 3,
+      "color": "#444e52"
+    },
+    {
+      "name": "Wrought Iron Lantern",
+      "uid": "DecorationsTFC:Lantern.WroughtIron",
+      "meta": 0,
+      "color": "#9f9f9f"
+    },
+    {
+      "name": "Yellow Air Balloon",
+      "uid": "ArchimedesShipsPlus:balloon",
+      "meta": 4,
+      "color": "#f2f28e"
+    },
+    {
+      "name": "Yellow Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 4,
+      "color": "#b1a627"
+    },
+    {
+      "name": "Yellow Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 4,
+      "color": "#ba8523"
+    },
+    {
+      "name": "Yellow Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 4,
+      "color": "#e5e533",
+      "alpha": 0.4
+    },
+    {
+      "name": "Yellow Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 4,
+      "color": "#e5e533",
+      "alpha": 0.4
+    },
+    {
+      "name": "Yellow Wool",
+      "uid": "minecraft:wool",
+      "meta": 4,
+      "color": "#b1a627"
+    },
+    {
+      "name": "cake",
+      "uid": "minecraft:cake",
+      "meta": 0,
+      "color": "#e4cdce"
+    },
+    {
+      "name": "netherStalk",
+      "uid": "minecraft:nether_wart",
+      "meta": 0,
+      "color": "#6a0e1e"
+    },
+    {
+      "name": "null",
+      "uid": "minecraft:piston_extension",
+      "meta": 0,
+      "color": "#998159"
+    },
+    {
+      "name": "null",
+      "uid": "minecraft:piston_head",
+      "meta": 0,
+      "color": "#998159"
+    },
+    {
+      "name": "pumpkinStem",
+      "uid": "minecraft:melon_stem",
+      "meta": 0,
+      "color": "#999999"
+    },
+    {
+      "name": "pumpkinStem",
+      "uid": "minecraft:pumpkin_stem",
+      "meta": 0,
+      "color": "#999999"
+    },
+    {
+      "name": "tile.MudBricks.Rock Salt.name",
+      "uid": "DecorationsTFC:MudBricks",
+      "meta": 5,
+      "color": "#786959"
+    },
+    {
+      "name": "tile.WoodHoriz4.name",
+      "uid": "terrafirmacraft:WoodHoriz4",
+      "meta": 0,
+      "color": "#51534c"
+    },
+    {
+      "name": "tile.null.name",
+      "uid": "minecraft:end_portal",
+      "meta": 0,
+      "color": "#560abe"
+    }
+  ]
+}
